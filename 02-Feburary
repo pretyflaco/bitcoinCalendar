@@ -1,1 +1,58 @@
+2/1/2021	
+2/2/2021	
+2/3/2021	2016 - Luke Dashjr submits BIP 0002 which replaces BIP 0001
+2/4/2021	
+2/5/2021	
+2/6/2021	2009 - Bitcoin Market, a bitcoin currency exchange site owned and operated by bitcointalk user dwdollar, is established.
+          2010 - "Eventually at most only 21 million coins for 6.8 billion people in the world if it really gets huge. But don't worry, there are another 6 decimal places that aren't shown, for a total of 8 decimal places internally.  It shows 1.00 but internally it's 1.00000000.  If there's massive deflation in the future, the software could show more decimal places."
+          2010 - "If it gets tiresome working with small numbers, we could change where the display shows the decimal point. Same amount of money, just different convention for where the "",""'s and "".""'s go. e.g. moving the decimal place 3 places would mean if you had 1.00000 before, now it shows it as 1,000.00."
+          2010 - "Bitcoin is still very new and has not been independently analysed.  If you're serious about privacy, TOR is an advisable precaution."
+          2010 - "You could use TOR if you don't want anyone to know you're even using Bitcoin."
+2/7/2021	
+2/8/2021	
+2/9/2021	2011 - Bitcoin reaches parity with the US dollar for the first time and touches US$1.00/BTC at MtGox. This event prompts several IT journals (Slashdot, Hacker News) to report about Bitcoin.
 
+"
+2/10/2021	2011 - Bitcoin.org website struggles under increased traffic, resulting from mentions on Slashdot, Hacker News and Twitter following the news of US$/BTC parity being reached.
+2/11/2021	2009 - "I've developed a new open source P2P e-cash system called Bitcoin. It's completely decentralized, with no central server or trusted parties, because everything is based on crypto proof instead of trust. Give it a try, or take a look at the screenshots and design paper."
+          2009 - "Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve. We have to trust them with our privacy, trust them not to let identity thieves drain our accounts. Their massive overhead costs make micropayments impossible."
+          2009 - "The root problem with conventional currency is all the trust that's required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust."
+          2009 - "A generation ago, multi-user time-sharing computer systems had a similar problem. Before strong encryption, users had to rely on password protection to secure their files, placing trust in the system administrator to keep their information private. Privacy could always be overridden by the admin based on his judgment call weighing the principle of privacy against other concerns, or at the behest of his superiors. Then strong encryption became available to the masses, and trust was no longer required. Data could be secured in a way that was physically impossible for others to access, no matter for what reason, no matter how good the excuse, no matter what."
+          2009 - "With e-currency based on cryptographic proof, without the need to trust a third party middleman, money can be secure and transactions effortless."
+          2009 - "A digital coin contains the public key of its owner. To transfer it, the owner signs the coin together with the public key of the next owner. Anyone can check the signatures to verify the chain of ownership."
+          2009 - "Any owner could try to re-spend an already spent coin by signing it again to another owner. The usual solution is for a trusted company with a central database to check for double-spending, but that just gets back to the trust model. In its central position, the company can override the users, and the fees needed to support the company make micropayments impractical. Bitcoin's solution is to use a peer-to-peer network to check for double-spending. In a nutshell, the network works like a distributed timestamp server, stamping the first transaction to spend a coin. It takes advantage of the nature of information being easy to spread but hard to stifle."
+          2009 - "The result is a distributed system with no single point of failure. Users hold the crypto keys to their own money and transact directly with each other, with the help of the P2P network to check for double-spending."
+2/12/2021	
+2/13/2021	2012 - The second largest Bitcoin exchange in the world, TradeHill, shuts down, citing regulatory problems and the loss of US$100,000 (following a dispute with a payment processor) as contributing factors.
+2/14/2021	2010 - "I'm sure that in 20 years there will either be very large transaction volume or no volume."
+          2010 - "In a few decades when the reward gets too small, the transaction fee will become the main compensation for nodes."
+          2010 - "If you're sad about paying the fee, you could always turn the tables and run a node yourself and maybe someday rake in a 0.44 fee yourself."
+          2011 - An Australian member of the Bitcoin Forum attempts to sell his 1984 Celica Supra for 3,000 BTC, and becomes the first person to offer a vehicle in exchange for Bitcoins.
+2/15/2021	2009 - "A lot of people automatically dismiss e-currency as a lost cause because of all the companies that failed since the 1990's. I hope it's obvious it was only the centrally controlled nature of those systems that doomed them. I think this is the first time we're trying a decentralized, non-trust-based system."
+          2013 - Reddit begins accepting bitcoins for purchases of Reddit Gold."
+2/16/2021	2012 - First auto title loan for bitcoins requested. 
+2/17/2021	2010 - Trading begins on Bitcoin Market.
+          2012 - A legal complaint against bitcoinica.com was filed with the Spanish authorities, given their legal status is unknown and any requests for providing information are left unanswered. (Source: https://bitcointalk.org/index.php?topic=64176.0) "
+2/18/2021	2009 - "It is a global distributed database, with additions to the database by consent of the majority, based on a set of rules they follow  - Whenever someone finds proof-of-work to generate a block, they get some new coins. The proof-of-work difficulty is adjusted every two weeks to target an average of 6 blocks per hour (for the whole network). The coins given per block is cut in half every 4 years"
+          2009 - "You could say coins are issued by the majority. They are issued in a limited, predetermined amount."
+          2009 - "To Sepp's question, indeed there is nobody to act as central bank or federal reserve to adjust the money supply as the population of users grows. That would have required a trusted party to determine the value, because I don't know a way for software to know the real world value of things."
+          2009 - "In this sense, it's more typical of a precious metal. Instead of the supply changing to keep the value the same, the supply is predetermined and the value changes. As the number of users grows, the value per coin increases. It has the potential for a positive feedback loop; as users increase, the value goes up, which could attract more users to take advantage of the increasing value."
+          2010 - The encryption patent application that was filed on August 15, 2008 by Neal Kin, Vladimir Oksman, and Charles Bry was published.
+          2013 - Kim DotCom's successor to MegaUpload, Mega to accept bitcoins for payment
+          2018 - Lightning Pizza Day  - 8 years after buying pizza with the first real world BTC purchase, Lazlo Hanyecz returns to buy pizza over the Lightning Network"
+2/19/2021	2013 - Bitcoin Client v0.8 released featuring improved download speed and Bloom Filtering
+          2013 - Silver parity reached. Bitcoin exchange rate at $29.65 is higher than an ounce of silver
+          2021 - Bitcoin hits 1 trillion USD market capitalization"
+2/20/2021	
+2/21/2021	2010 - "A rational market price for something that is expected to increase in value will already reflect the present value of the expected future increases.  In your head, you do a probability estimate balancing the odds that it keeps increasing."
+          2010 - "The price of any commodity tends to gravitate toward the production cost.  If the price is below cost, then production slows down.  If the price is above cost, profit can be made by generating and selling more.  At the same time, the increased production would increase the difficulty, pushing the cost of generating towards the price."
+          2010 - "At the moment, generation effort is rapidly increasing, suggesting people are estimating the present value to be higher than the current cost of production."
+2/22/2021	
+2/23/2021	2016 - Release of Bitcoin Core v0.12.0: Outlook: "The release of Version 0.12 will be a major move forward for the Bitcoin Core client. However, there is still much more to do and we’re always looking for more contributors. For more details see our contributing page https://bitcoincore.org/en/contribute/ "
+2/24/2021	2010 - "That would be nice at point-of-sale.  The cash register displays a QR-code encoding a bitcoin address and amount on a screen and you photo it with your mobile."
+          2013 - The Death of MtGox | Roger Shame day - On this day in 2013 MtGox, the largest BTC exchange in the world, went offline due to insolvency
+2/25/2021	2011 - WeUseCoins.com is registered and built into a Bitcoin resource and creates one of the most watched videos on Bitcoin.
+2/26/2021	2010 - "How does everyone feel about the B symbol with the two lines through the outside? Can we live with that as our logo?"
+          2016 - First successful Zero-Knowledge Contingent Payment (ZKCP) on the Bitcoin network
+2/27/2021	2012 - Bitcoin Magazine launches with articles about Bitcoin and crypto-currency.
+2/28/2021	2013 - The MtGox exchange rate broke the June 8 2011 peak of 31.91 USD. The first all time high since 601 days
