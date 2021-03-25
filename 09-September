@@ -1,42 +1,51 @@
-8/1 2017 - Bitcoin Independence Day The official end of the Blocksize Wars. 2020 - Bitcoin core release 0.20.1	
-8/2		
-8/3		
-8/4 2010 - "Bitcoin isn't currently practical for very small micropayments.  Not for things like pay per search or per page view without an aggregating mechanism, not things needing to pay less than 0.01.  The dust spam limit is a first try at intentionally trying to prevent overly small micropayments like that. Bitcoin is practical for smaller transactions than are practical with existing payment methods.  Small enough to include what you might call the top of the micropayment range.  But it doesn't claim to be practical for arbitrarily small micropayments."	
-8/5 2010 - "Forgot to add the good part about micropayments.  While I don't think Bitcoin is practical for smaller micropayments right now, it will eventually be as storage and bandwidth costs continue to fall.  If Bitcoin catches on on a big scale, it may already be the case by that time.  Another way they can become more practical is if I implement client-only mode and the number of network nodes consolidates into a smaller number of professional server farms.  Whatever size micropayments you need will eventually be practical.  I think in 5 or 10 years, the bandwidth and storage will seem trivial."
-    2011 - A week after being hacked, a MyBitcoin spokesperson explains how the Bitcoin transaction processor lost over 150,000 Bitcoins, worth over US$2 million at the time."	
-8/6 2012 - Four Bitcoiners, one of them being Brian Cartmell, file a complaint against Bitcoinica in San Francisco (a former Bitcoin margin trading platform that got hacked and hasn't returned customers' funds) with accusations of breach of contract, negligence, and three more counts. (source, document: https://www.theverge.com/2012/8/10/3233711/second-bitcoin-lawsuit-is-filed-in-california)	
-8/7 2010 - "It's the same situation as gold and gold mining.  The marginal cost of gold mining tends to stay near the price of gold.  Gold mining is a waste, but that waste is far less than the utility of having gold available as a medium of exchange. I think the case will be the same for Bitcoin. The utility of the exchanges made possible by Bitcoin will far exceed the cost of electricity used. Therefore, not having Bitcoin would be the net waste."
-    2010 - "Proof-of-work has the nice property that it can be relayed through untrusted middlemen.  We don't have to worry about a chain of custody of communication.  It doesn't matter who tells you a longest chain, the proof-of-work speaks for itself."""	
-8/8 2017 - SegWit Lock-in Day Segregated Witness is officially locked in by the UASF client on the Bitcoin network.	
-8/9 2010 - "The heat from your computer is not wasted if you need to heat your home.  If you're using electric heat where you live, then your computer's heat isn't a waste.  It's equal cost if you generate the heat with your computer. If you have other cheaper heating than electric, then the waste is only the difference in cost. If it's summer and you're using A/C, then it's twice. \nBitcoin generation should end up where it's cheapest.  Maybe that will be in cold climates where there's electric heat, where it would be essentially free.""
-    2019 - Bitcoin Core release 0.18.1"	
-8/10		
-8/11 2010 - Then you must also be against the common system of payment up front, where the customer loses. Payment up front  customer loses, and the thief gets the money. Simple escrow  customer loses, but the thief doesn't get the money either. Are you guys saying payment up front is better, because at least the thief gets the money, so at least someone gets it? Imagine someone stole something from you.  You can't get it back, but if you could, if it had a kill switch that could be remote triggered, would you do it?  Would it be a good thing for thieves to know that everything you own has a kill switch and if they steal it, it'll be useless to them, although you still lose it too?  If they give it back, you can re-activate it. Imagine if gold turned to lead when stolen.  If the thief gives it back, it turns to gold again. It still seems to me the problem may be one of presenting it the right way.  For one thing, not being so blunt about "money burning" for the purposes of game theory discussion.  The money is never truly burned.  You have the option to release it at any time forever."	
-8/12		
-8/13		
-8/14		
-8/15 2008 - Neal Kin, Vladimir Oksman, and Charles Bry file an application for an encryption patent application. All three individuals deny a connection to Satoshi Nakamoto, the alleged originator of the Bitcoin concept.
-     2010 - Only major vulnerability (inflation bug) fixed - bug in the bitcoin code allows a bad transaction into block 74638. Users quickly adopt fixed code and the ""good"" block chain overtook the bad one at a block height of 74691, 53 blocks later
-     2010 - "Some places where generation will gravitate to: 1) places where it's cheapest or free 2) people who want to help for idealogical reasons 3) people who want to get some coins without the inconvenience of doing a transaction to buy them. There are legitimate places where it's free.  Generation is basically free anywhere that has electric heat, since your computer's heat is offsetting your baseboard electric heating.  Many small flats have electric heat out of convenience."" "	
-8/16 1992 - A proof-of-work system for email spam is presented at the 12th Annual International Cryptology Conference (CRYPTO'92) at the campus of University of California. The main idea is to require a user to compute a moderately hard, but not intractable, function in order to gain access to the resource, thus preventing frivolous use.
-     2010 - "There is no way for the software to automatically know if one chain is better than another except by the greatest proof-of-work.  In the design it was necessary for it to switch to a longer chain no matter how far back it has to go.""
-8/17	
-8/18 2008 - Bitcoin.org is born! The domain was registered at anonymousspeech.com, a site that allows users to anonymously register domain names and currently accepts Bitcoins.
-     2011 - Forum user BCCAP - Paul from www.btccapus.com accounces that he facilitated the purchase and sale of a single family home in Alameda County the value of which was in excess of BTC 45,000
-     2017 - "This is lies, my trust in you is broken, I will make you obsolete"" Nicolas Dorier pledges to make Bitpay obsolete"	
-8/19 1990 - Stuart Haber and W. Scott Stornetta send in the paper "How To Time-Stamp a Digital Document" to the Journal of Cryptology (published in 1991) where they propose computationally practical procedures for digital time-stamping of such documents so that it is infeasible for a user either to back-date or to forward-date his document, even with the collusion of a time-stamping service.	
-8/20 2011 - The first Bitcoin Conference and World Expo was held in New York City. 
-     2012 - Charlie Shrem announces plans to introduce a Bitcoin debit card through BitInstant, a Bitcoin transfer service. "	
-8/21	
-8/22 2013 - First commissioned bitcoin painting. by Ali Spagnola. An oil painting of the bitcoin logo. A commission of $50 USD was paid to Ali in bitcoin for the painting.	
-8/23 2011 - The first peer-to-peer decentralized pool, P2Pool, mines its first Bitcoin mainnet block (Block 142,312).
-     2017 - Activation Day! SegWit activated on Bitcoin mainnet at block height 481,824 at 1:57 UTC. the SegWit soft fork was a success!"	
-8/24 2012 - First private medical practice accepts Bitcoin. It's a dentist in Finland.	
-8/25		
-8/26		
-8/27 2010 - "As a thought experiment, imagine there was a base metal as scarce as gold but with the following properties: boring grey in colour - not a good conductor of electricity - not particularly strong, but not ductile or easily malleable either - not useful for any practical or ornamental purpose and one special, magical property:  can be transported over a communications channel. If it somehow acquired any value at all for whatever reason, then anyone wanting to transfer wealth over a long distance could buy some, transmit it, and have the recipient sell it. Maybe it could get an initial value circularly as you've suggested, by people foreseeing its potential usefulness for exchange.  (I would definitely want some)  Maybe collectors, any random reason could spark it. I think the traditional qualifications for money were written with the assumption that there are so many competing objects in the world that are scarce, an object with the automatic bootstrap of intrinsic value will surely win out over those without intrinsic value.  But if there were nothing in the world with intrinsic value that could be used as money, only scarce but no intrinsic value, I think people would still take up something. (I'm using the word scarce here to only mean limited potential supply)""
-     2010 - "Bitcoins have no dividend or potential future dividend, therefore not like a stock. More like a collectible or commodity."
-8/28 2014 - Hal’s Day RIP Hal Finney.	
-8/29	
-8/30 2011 - Difficulty adjustment at block 143,136 marks the first back-to-back drop. 	
-8/31	
+9/1	2015 - Bitcoin Magazine publishes open letter to the community to communicate a plan of action related to technical consensus and Bitcoin scalability written and signed by many of the Bitcoin developers, including the most prolific contributors to (at least) three separate implementations of the Bitcoin system. Signers of this letter represent about 90 of the commits in the last year or two to Bitcoin Core, according to Greg Maxwell.	
+9/2		
+9/3 2012 - The fourth largest US Bitcoin exchange, Bitfloor, is hacked and loses 24,000 BTC (valued at approximately US$250,000 when the theft took place), which was the majority of the on-hand Bitcoins. Compromised servers result in access to encrypted backup files of wallet keys. All exchange operations are paused.
+    2019 - Cryptoadvance releases Specter DIY with support for key generation & recovery, optional passphrase, address verification, single-key signing, displaying master public keys, switching between testnet / regtest / mainnet and somehow working with electrum ( change detection up to address 20 )
+9/4		
+9/5 1979 - Ralph Merkle files patent for "Merkle Tree" . The invention comprises a method of providing a digital signature for purposes of authentication of a message, which utilizes an authentication tree function of a one-way function of a secret number. The patent expired 20 years later on this date in 1999.	
+9/6 2011 - Mike Caldwell begins minting physical Bitcoins, naming the coins Casacius Coins.	
+9/7 2010 - "Another option is to reduce the number of free transactions allowed per block before transaction fees are required.  Nodes only take so many KB of free transactions per block before they start requiring at least 0.01 transaction fee. The threshold should probably be lower than it currently is. I don't think the threshold should ever be 0.  We should always allow at least some free transactions."	
+9/8 2010 - "The threshold can easily be changed in the future.  We can decide to increase it when the time comes.  It's a good idea to keep it lower as a circuit breaker and increase it as needed.  If we hit the threshold now, it would almost certainly be some kind of flood and not actual use.  Keeping the threshold lower would help limit the amount of wasted disk space in that event."
+    2010 - "Currently, paying a fee is controlled manually with the -paytxfee switch.  It would be very easy to make the software automatically check the size of recent blocks to see if it should pay a fee.  We're so far from reaching the threshold, we don't need that yet.  It's a good idea to see how things go with controlling it manually first anyway."
+9/9		
+9/10	
+9/11	
+9/12	
+9/13		
+9/14 2010 - In the name of the Bitcoin Store, jgarzik offers to puddinpop to open source their Windows-based CUDA client. The offer was in the form of 10,000 BTC which was valued at around US$600 to US$650 at the time. 
+     2010 - Block 79,764 is the first to be mined using split allocation of the generation reward. 
+     2012 - First warrant to seize Bitcoins. U.S. Secret Service seizing Michael M. Brown's bitcoins in the Romney Taxes For Ransom case."	
+9/15 2012 - The London 2012 Bitcoin Conference is held.	
+9/16 2012 - Bitcoin Conference in London	
+9/17		
+9/18 2010 - following a contribution by jgarzik, puddinpop releases the source to their windows-based CUDA client under MIT license, open sourced by the Bitcoin Store.
+     2010 - Bitcoin Pooled Mining (operated by slush), a method by which several users collectively mine Bitcoins and share in the benefits, mines its first block.
+     2018 - CVE-2018-17144, a fix for which was released in Bitcoin Core versions 0.16.3 and 0.17.0rc4, includes both a Denial of Service component and a critical inflation vulnerability."	
+9/19 2010 -  "I don't know anything about any of the bug trackers.  If we were to have one, we would have to make a thoroughly researched choice. We're managing pretty well just using the forum.  I'm more likely to see bugs posted in the forum, and I think other users are much more likely to help resolve and ask follow up questions here than if they were in a bug tracker.  A key step is other users helping resolve the simple stuff that's not really a bug but some misunderstanding or confusion. I keep a list of all unresolved bugs I've seen on the forum.  In some cases, I'm still thinking about the best design for the fix.  This isn't the kind of software where we can leave so many unresolved bugs that we need a tracker for them."	
+9/20		
+9/21	
+9/22	
+9/23 2010 -  "Bitcoin would be convenient for people who don't have a credit card or don't want to use the cards they have, either don't want the spouse to see it on the bill or don't trust giving their number to "porn guys", or afraid of recurring billing."	
+9/24 2012 - Phillip Moustakis, a Senior Attorney in the Enforcement Division of the U.S. Securities and Exchange Commission, sends an email that announces an investigation of Bitcoin Savings and Trust after allegations were made that the Ponzi scheme decreased the value of Bitcoins by as much as 30 percent.	
+9/25	
+9/26 2012 - First Taxi service accepts Bitcoin (in Herefordshire, UK.)	
+9/27 2012 - Bitcoin Foundation Day: The Bitcoin Foundation is formed, implementing a core development team for the protocol and a body to oversee the digital currency. - No one controls Bitcoin, remember that on this day.	
+9/28 2013 - Bitcoin Client v0.8 released featuring improved download speed and Bloom Filtering
+     2013 - Silver parity reached. Bitcoin exchange rate at $29.65 is higher than an ounce of silver	
+9/29 2010 - kermit discovers a microtransactions exploit which precipitates the Bitcoin v0.3.13 release
+     2017 - BTCPayserver v1.0.0.0 released on GitHub by Nicolas Dorier"	
+9/30 2010 - "I wish rather than deleting the article, they put a length restriction.  If something is not famous enough, there could at least be a stub article identifying what it is.  I often come across annoying red links of things that Wiki ought to at least have heard of. \nThe article could be as simple as something like  "Bitcoin is a peer-to-peer decentralised electronic currency." The more standard Wiki thing to do is that we should have a paragraph in one of the more general categories that we are an instance of, like Electronic Currency or Electronic Cash.  We can probably establish a paragraph there.  Again, keep it short.  Just identifying what it is."
+     2010 - "As you figured out, the root problem is we shouldn't be counting or spending transactions until they have at least 1 confirmation.  0/unconfirmed transactions are very much second class citizens.  At most, they are advice that something has been received, but counting them as balance or spending them is premature."
+     Historical Prices 
+     2020 $10721
+     2019 $8051
+     2018 $6587
+     2017 $4290
+     2016 $607
+     2015 $236
+     2014 $388
+     2013 $125
+     2012 $12
+     2011 $5
+     2010 $0.06"
