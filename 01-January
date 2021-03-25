@@ -1,45 +1,45 @@
-1/1/2021
-1/2/2021	2011 - Tonal Bitcoin, designed for those who prefer the Tonal number system, standardizes its units.
-1/3/2021	2009 - Genesis Block is mined by Satoshi Nakamoto. The block contains a message: "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"
-1/4/2021	
-1/5/2021	1982 - Ralph Merkle is granted a patent for the invention of "Merkle Tree"
-1/6/2021	2011 - Guy pays random guy for work performed (holding a sign on a busy intersection) - in blog post titled "The Power of Bitcoins" he writes: "These photos prove that people will do anything for bitcoins! There is a Bitcoin Rush! I paid a guy 32 bitcoins to dress up in a crazy outfit and hold a sign for me in a busy interestion."
-1/7/2021	2016 - Bitcoin Core releases statement: Bitcoin is a “peer-to-peer version of electronic cash that allows online payments to be sent directly from one party to another without going through a financial institution”. Our vision for Bitcoin is to expand the flexibility of the system to work efficiently at extremely high scale, while at the same time maintaining security and the core properties of decentralization that make Bitcoin unique.
-1/8/2021	2011 - History of Bitcoin page created after replicating from original Bitcoin History page on Bitcoin.org
-          2011 - Bitcoin Pooled Mining reached a total of 10,000 Mhash/s.
-          2017 - Lightning Pay Day The first real purchase over the Lightning Network was sent on this day in 2018 for a TorGuard VPN subscription."
-1/9/2021	2009 - "Announcing the first release of Bitcoin, a new electronic cash system that uses a peer-to-peer network to prevent double-spending. It's completely decentralized with no server or central authority.""
-          2009 - "If you can keep a node running that accepts incoming connections, you'll really be helping the network a lot. Port 8333 on your firewall needs to be open to receive incoming connections.""
-          2009 - "You can get coins by getting someone to send you some, or turn on Options->Generate Coins to run a node and generate blocks. I made the proof-of-work difficulty ridiculously easy to start with, so for a little while in the beginning a typical PC will be able to generate coins in just a few hours. It'll get a lot harder when competition makes the automatic adjustment drive up the difficulty. Generated coins must wait 120 blocks to mature before they can be spent.""
-          2009 - "There are two ways to send money. If the recipient is online, you can enter their IP address and it will connect, get a new public key and send the transaction with comments. If the recipient is not online, it is possible to send to their Bitcoin address, which is a hash of their public key that they give you. They'll receive the transaction the next time they connect and get the block it's in. This method has the disadvantage that no comment information is sent, and a bit of privacy may be lost if the address is used multiple times, but it is a useful alternative if both users can't be online at the same time or the recipient can't receive incoming connections.""
-          2009 - "Total circulation will be 21,000,000 coins. It'll be distributed to network nodes when they make blocks, with the amount cut in half every 4 years. first 4 years 10,500,000 coins, next 4 years 5,250,000 coins, next 4 years  2,625,000 coins, next 4 years  1,312,500 coins, etc...When that runs out, the system can support transaction fees if needed. It's based on open market competition, and there will probably always be nodes willing to process transactions for free.""
-          2009 - Bitcoin v0.1 released and announced on the cryptography mailing list - Compiled with Microsoft Visual Studio for Windows, it lacks a command line interface and is so complete that it furthers speculation that it was developed by more than one person (or by an academic with little programming experience and a great deal of theoretical know-how)"
-1/10/2021	
-1/11/2021	2009 - Hal Finney tweets "Running Bitcoin"
-1/12/2021	2009 - Genesis Transaction Day The first transaction ever broadcast over the Bitcoin network is send by Satoshi Nakamoto to Hal Finney in block 170. This is the only transaction known to have been sent by the creator of Bitcoin.
-1/13/2021	
-1/14/2021	2014 - Evolution Marketplace launched and saw rapid growth within its first several months, helped in part by law enforcement seizures of some of its competitors during the six-month-long investigation codenamed Operation Onymous
-          2016 - Lightning Whitepaper Day Official release of the Lightning Network Whitepaper by Joseph Poon and Thaddeus Dryja."
-1/15/2021	
-1/16/2021	
-1/17/2021	2009 - "I would be surprised if 10 years from now we're not using electronic currency in some way, now that we know a way to do it that won't inevitably get dumbed down when the trusted third party gets cold feet.""
-          2009 - "It can already be used for pay-to-send e-mail. The send dialog is resizeable and you can enter as long of a message as you like. It's sent directly when it connects. The recipient doubleclicks on the transaction to see the full message. If someone famous is getting more e-mail than they can read, but would still like to have a way for fans to contact them, they could set up Bitcoin and give out the IP address on their website. ""Send X bitcoins to my priority hotline at this IP and I'll read the message personally.""
-          2009 - "Subscription sites that need some extra proof-of-work for their free trial so it doesn't cannibalize subscriptions could charge bitcoins for the trial.""
-          2009 - "It might make sense just to get some in case it catches on. If enough people think the same way, that becomes a self fulfilling prophecy. Once it gets bootstrapped, there are so many applications if you could effortlessly pay a few cents to a website as easily as dropping coins in a vending machine."""
-1/18/2021	
-1/19/2021	
-1/20/2021	
-1/21/2021	2016 - Launch of Segregated Witness Testnet. This development began with a research effort by Bitcoin Core developer, Dr. Pieter Wuille, initially focused on addressing transaction malleability, a longstanding and well-known concern and priority. However, in the process of this research, and in the narrowing toward a solution, additional properties of the solution were discovered that allow for increasing the block size while also simultaneously opening up some incredibly exciting secondary benefits. This effort was initiated by Dr. Pieter Wuille, but included contributions from many others, with particular thanks to Eric Lombrozo, Johnson Lau, Alex Morcos, Nicolas Dorier, Bryan Bishop, Gregory Maxwell, Peter Todd, Cory Fields, Suhas Daftuar, and Luke-Jr. Popular wallets and supporting libraries have stated they will support Segwit including Ledger, Trezor, Electrum, and Bitgo.
-1/22/2021	2013 - BitPay, a Bitcoin payment processing company, announces that it has surpassed 10,000 Bitcoin transactions for its merchants, with no cases of payment fraud reported.
-1/23/2021	
-1/24/2021	
-1/25/2021	
-1/26/2021	2016 - A detailed explanation of SegWit Benefits is published on the Bitcoin Core Blog
-1/27/2021	2010 - Largest numeric value ever traded for bitcoins thus far occurred on this date. Three currency bills from Zimbabwe, known as Zimdollars, were traded on #bitcoin-otc at the rate of 4 BTC for each of the one-hundred trillion dollar ($100,000,000,000,000) Zimbabwe notes
-          2011 - Silk Road Day: The day that The Silk Road, a Bitcoin marketplace, went live on the dark web. A proof of concept for Bitcoin's independence, censorship resistance, and pseudonymity."
-1/28/2021	2010 - "I very much wanted to find some way to include a short message, but the problem is, the whole world would be able to see the message.  As much as you may keep reminding people that the message is completely non-private, it would be an accident waiting to happen.""
-          2011 - With the generation of Block 105000, 5.25 million Bitcoins have been generated, totalling more than 25 percent of the projected total of almost 21 million Bitcoins. 
-          2016 - Bitcoin Core releases statement called ""Clarifying Communications"" and shares contact and participation information with links to #bitcoin-core-dev IRC channel on Freenode, GitHub https://github.com/bitcoin/bitcoin and the the bitcoin-dev mailing list < http://lists.linuxfoundation.org/pipermail/bitcoin-dev/"
-1/29/2021	
-1/30/2021	
-1/31/2021	
+1/1
+1/2 2011 - Tonal Bitcoin, designed for those who prefer the Tonal number system, standardizes its units.
+1/3 2009 - Genesis Block is mined by Satoshi Nakamoto. The block contains a message: "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"
+1/4	
+1/5 1982 - Ralph Merkle is granted a patent for the invention of "Merkle Tree"
+1/6 2011 - Guy pays random guy for work performed (holding a sign on a busy intersection) - in blog post titled "The Power of Bitcoins" he writes: "These photos prove that people will do anything for bitcoins! There is a Bitcoin Rush! I paid a guy 32 bitcoins to dress up in a crazy outfit and hold a sign for me in a busy interestion."
+1/7 2016 - Bitcoin Core releases statement: Bitcoin is a “peer-to-peer version of electronic cash that allows online payments to be sent directly from one party to another without going through a financial institution”. Our vision for Bitcoin is to expand the flexibility of the system to work efficiently at extremely high scale, while at the same time maintaining security and the core properties of decentralization that make Bitcoin unique.
+1/8 2011 - History of Bitcoin page created after replicating from original Bitcoin History page on Bitcoin.org
+    2011 - Bitcoin Pooled Mining reached a total of 10,000 Mhash/s.
+    2017 - Lightning Pay Day The first real purchase over the Lightning Network was sent on this day in 2018 for a TorGuard VPN subscription."
+1/9 2009 - "Announcing the first release of Bitcoin, a new electronic cash system that uses a peer-to-peer network to prevent double-spending. It's completely decentralized with no server or central authority.""
+    2009 - "If you can keep a node running that accepts incoming connections, you'll really be helping the network a lot. Port 8333 on your firewall needs to be open to receive incoming connections.""
+    2009 - "You can get coins by getting someone to send you some, or turn on Options->Generate Coins to run a node and generate blocks. I made the proof-of-work difficulty ridiculously easy to start with, so for a little while in the beginning a typical PC will be able to generate coins in just a few hours. It'll get a lot harder when competition makes the automatic adjustment drive up the difficulty. Generated coins must wait 120 blocks to mature before they can be spent.""
+    2009 - "There are two ways to send money. If the recipient is online, you can enter their IP address and it will connect, get a new public key and send the transaction with comments. If the recipient is not online, it is possible to send to their Bitcoin address, which is a hash of their public key that they give you. They'll receive the transaction the next time they connect and get the block it's in. This method has the disadvantage that no comment information is sent, and a bit of privacy may be lost if the address is used multiple times, but it is a useful alternative if both users can't be online at the same time or the recipient can't receive incoming connections.""
+    2009 - "Total circulation will be 21,000,000 coins. It'll be distributed to network nodes when they make blocks, with the amount cut in half every 4 years. first 4 years 10,500,000 coins, next 4 years 5,250,000 coins, next 4 years  2,625,000 coins, next 4 years  1,312,500 coins, etc...When that runs out, the system can support transaction fees if needed. It's based on open market competition, and there will probably always be nodes willing to process transactions for free.""
+    2009 - Bitcoin v0.1 released and announced on the cryptography mailing list - Compiled with Microsoft Visual Studio for Windows, it lacks a command line interface and is so complete that it furthers speculation that it was developed by more than one person (or by an academic with little programming experience and a great deal of theoretical know-how)"
+1/10	
+1/11 2009 - Hal Finney tweets "Running Bitcoin"
+1/12 2009 - Genesis Transaction Day The first transaction ever broadcast over the Bitcoin network is send by Satoshi Nakamoto to Hal Finney in block 170. This is the only transaction known to have been sent by the creator of Bitcoin.
+1/13	
+1/14 2014 - Evolution Marketplace launched and saw rapid growth within its first several months, helped in part by law enforcement seizures of some of its competitors during the six-month-long investigation codenamed Operation Onymous
+     2016 - Lightning Whitepaper Day Official release of the Lightning Network Whitepaper by Joseph Poon and Thaddeus Dryja."
+1/15	
+1/16	
+1/17 2009 - "I would be surprised if 10 years from now we're not using electronic currency in some way, now that we know a way to do it that won't inevitably get dumbed down when the trusted third party gets cold feet.""
+     2009 - "It can already be used for pay-to-send e-mail. The send dialog is resizeable and you can enter as long of a message as you like. It's sent directly when it connects. The recipient doubleclicks on the transaction to see the full message. If someone famous is getting more e-mail than they can read, but would still like to have a way for fans to contact them, they could set up Bitcoin and give out the IP address on their website. ""Send X bitcoins to my priority hotline at this IP and I'll read the message personally.""
+     2009 - "Subscription sites that need some extra proof-of-work for their free trial so it doesn't cannibalize subscriptions could charge bitcoins for the trial.""
+     2009 - "It might make sense just to get some in case it catches on. If enough people think the same way, that becomes a self fulfilling prophecy. Once it gets bootstrapped, there are so many applications if you could effortlessly pay a few cents to a website as easily as dropping coins in a vending machine."""
+1/18	
+1/19	
+1/20	
+1/21 2016 - Launch of Segregated Witness Testnet. This development began with a research effort by Bitcoin Core developer, Dr. Pieter Wuille, initially focused on addressing transaction malleability, a longstanding and well-known concern and priority. However, in the process of this research, and in the narrowing toward a solution, additional properties of the solution were discovered that allow for increasing the block size while also simultaneously opening up some incredibly exciting secondary benefits. This effort was initiated by Dr. Pieter Wuille, but included contributions from many others, with particular thanks to Eric Lombrozo, Johnson Lau, Alex Morcos, Nicolas Dorier, Bryan Bishop, Gregory Maxwell, Peter Todd, Cory Fields, Suhas Daftuar, and Luke-Jr. Popular wallets and supporting libraries have stated they will support Segwit including Ledger, Trezor, Electrum, and Bitgo.
+1/22 2013 - BitPay, a Bitcoin payment processing company, announces that it has surpassed 10,000 Bitcoin transactions for its merchants, with no cases of payment fraud reported.
+1/23
+1/24	
+1/25	
+1/26 2016 - A detailed explanation of SegWit Benefits is published on the Bitcoin Core Blog
+1/27 2010 - Largest numeric value ever traded for bitcoins thus far occurred on this date. Three currency bills from Zimbabwe, known as Zimdollars, were traded on #bitcoin-otc at the rate of 4 BTC for each of the one-hundred trillion dollar ($100,000,000,000,000) Zimbabwe notes
+     2011 - Silk Road Day: The day that The Silk Road, a Bitcoin marketplace, went live on the dark web. A proof of concept for Bitcoin's independence, censorship resistance, and pseudonymity."
+1/28 2010 - "I very much wanted to find some way to include a short message, but the problem is, the whole world would be able to see the message.  As much as you may keep reminding people that the message is completely non-private, it would be an accident waiting to happen.""
+     2011 - With the generation of Block 105000, 5.25 million Bitcoins have been generated, totalling more than 25 percent of the projected total of almost 21 million Bitcoins. 
+     2016 - Bitcoin Core releases statement called ""Clarifying Communications"" and shares contact and participation information with links to #bitcoin-core-dev IRC channel on Freenode, GitHub https://github.com/bitcoin/bitcoin and the the bitcoin-dev mailing list < http://lists.linuxfoundation.org/pipermail/bitcoin-dev/"
+1/29	
+1/30	
+1/31	
