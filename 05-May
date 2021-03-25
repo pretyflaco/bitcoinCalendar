@@ -1,45 +1,44 @@
-5/1/2021	"2012 - Race horse named after Satoshi
-2012 - Bitcoin Magazine publishes its first printed issue.
-2013 - Online gaming company ESEA is called out for secretly using customer computers to mine Bitcoins.
-2013 - Coindesk, a bitcoin-focused resource and news website is launched by Shakil Khan, an angel investor and advisor to Spotify. 
-2014 - Dark Wallet Alpha released - an experimental, privacy-focused bitcoin client developed by Amir Taaki, Cody Wilson et. al."
-5/2/2021	"2013 - Bitcoin ATM Day The very first Bitcoin ATM went live on this day in San Diego, California 2019 btc core release 0.18.0.
-The first Bitcoin ATM in the world is debuted in San Diego, California.
-2013 - Coinlab files a lawsuit against MtGox, alleging multiple counts of breach of contract that resulted in US$75 million in damages.."
+5/1/2021	2012 - Race horse named after Satoshi
+         2012 - Bitcoin Magazine publishes its first printed issue.
+         2013 - Online gaming company ESEA is called out for secretly using customer computers to mine Bitcoins.
+         2013 - Coindesk, a bitcoin-focused resource and news website is launched by Shakil Khan, an angel investor and advisor to Spotify. 
+									2014 - Dark Wallet Alpha released - an experimental, privacy-focused bitcoin client developed by Amir Taaki, Cody Wilson et. al.
+5/2/2021	2013 - Bitcoin ATM Day The very first Bitcoin ATM went live on this day in San Diego, California 
+									2019 - Bitcoin Core release 0.18.0.
+									2013 - Coinlab files a lawsuit against MtGox, alleging multiple counts of breach of contract that resulted in US$75 million in damages.
 5/3/2021	2017 - Tonal Bitcoin reached parity with the US dollar, touching $1 per TBC for the first time
 5/4/2021	
 5/5/2021	
 5/6/2021	
 5/7/2021	
 5/8/2021	2012 - A single service, Satoshi Dice, becomes responsible for over half the transaction volume on the Bitcoin blockchain.
-5/9/2021	"2011 - First physical bitcoins called bitbills - A Bitbill is a plastic card that holds the cryptographic key that will allow the face value amount of the card to be spent.
-2012 - An FBI report entitled ""Bitcoin Virtual Currency: Unique Features Present Distinct Challenges for Deterring Illicit Activity"" is leaked. The report was published on April 24, 2012 in order to bring attention to concerns that Bitcoin payment methods could facilitate illegal transactions for weapons and narcotics.
-2015 - Samourai Wallet inception with Reddit post that announces enforcement of BIP 39 passphrase when a wallet is created. It claims to be forged to keep transactions private, user identity masked, and funds secure."
+5/9/2021	2011 - First physical bitcoins called bitbills - A Bitbill is a plastic card that holds the cryptographic key that will allow the face value amount of the card to be spent.
+									2012 - An FBI report entitled ""Bitcoin Virtual Currency: Unique Features Present Distinct Challenges for Deterring Illicit Activity"" is leaked. The report was published on April 24, 2012 in order to bring attention to concerns that Bitcoin payment methods could facilitate illegal transactions for weapons and narcotics.
+									2015 - Samourai Wallet inception with Reddit post that announces enforcement of BIP 39 passphrase when a wallet is created. It claims to be forged to keep transactions private, user identity masked, and funds secure."
 5/10/2021	
-5/11/2021	"2012 - Bitcoin exchange, Bitcoinica, is taken down following after hack results in a loss of over 18,000 Bitcoins, valued at approximately US$90,000.
-2020 - Third halving cuts block subsidy from 12.5 to 6.25. Final block of third epoch is mined by f2pool and contains the message: ""NYTimes 09/Apr/2020 With $2.3T Injection, Fed's Plan Far Exceeds 2008 Rescue"" "
+5/11/2021	2012 - Bitcoin exchange, Bitcoinica, is taken down following after hack results in a loss of over 18,000 Bitcoins, valued at approximately US$90,000.
+										2020 - Third halving cuts block subsidy from 12.5 to 6.25. Final block of third epoch is mined by f2pool and contains the message: ""NYTimes 09/Apr/2020 With $2.3T Injection, Fed's Plan Far Exceeds 2008 Rescue"" "
 5/12/2021	2011 - First room for rent for Bitcoin
 5/13/2021	
 5/14/2021	
 5/15/2021	2017 - First Release of Joinmarket by Adam Gibson,  a CoinJoin implementation aimed at improving the privacy and fungibility of bitcoin transactions.
-5/16/2021	"2010 -  ""Bitcoin addresses you generate are kept forever.  A bitcoin address must be kept to show ownership of anything sent to it.  If you were able to delete a bitcoin address and someone sent to it, the money would be lost.  They're only about 500 bytes.""
-2010 -  ""When you generate a new bitcoin address, it only takes disk space on your own computer (like 500 bytes).  It's like generating a new PGP private key, but less CPU intensive because it's ECC.  The address space is effectively unlimited.  It doesn't hurt anyone, so generate all you want."""
+5/16/2021	2010 - "Bitcoin addresses you generate are kept forever. A bitcoin address must be kept to show ownership of anything sent to it.  If you were able to delete a bitcoin address and someone sent to it, the money would be lost.  They're only about 500 bytes.""
+										2010 - "When you generate a new bitcoin address, it only takes disk space on your own computer (like 500 bytes).  It's like generating a new PGP private key, but less CPU intensive because it's ECC.  The address space is effectively unlimited.  It doesn't hurt anyone, so generate all you want."""
 5/17/2021	2011 - First stripper being tipped bitcoin
-5/18/2021	"2010 -  ""Simplified Payment Verification is for lightweight client-only users who only do transactions and don't generate and don't participate in the node network.  They wouldn't need to download blocks, just the hash chain, which is currently about 2MB and very quick to verify (less than a second to verify the whole chain).  If the network becomes very large, like over 100,000 nodes, this is what we'll use to allow common users to do transactions without being full blown nodes.  At that stage, most users should start running client-only software and only the specialist server farms keep running full network nodes, kind of like how the usenet network has consolidated. \nSPV is not implemented yet, and won't be implemented until far in the future, but all the current implementation is designed around supporting it.""
-2011 - Patrick Strateman (phantomcircuit) makes first commits to Libbitcoin, a set of cross platform, open source C++ libraries for building bitcoin applications. The toolkit consists of libraries, examples, tests and applications. The project was established on three principles[1]: Privacy: Bitcoin should always remain as private as possible for its users. Scalability: Bitcoin built today with the future in mind. Integrity: No individual or group should have enough power over the network to compromise its original aims.
-2012 - First Bitcoin class in a public school. It was a 4th grade class in Las Vegas
-2015 - Evolution darknet marketplace goes down, citing technical difficulties. The shut down was soon discovered to be an exit scam, with the operators of the site shutting down abruptly in order to steal the approximately $12 million in bitcoins it was holding as escrow"
+5/18/2021	2010 - "Simplified Payment Verification is for lightweight client-only users who only do transactions and don't generate and don't participate in the node network.  They wouldn't need to download blocks, just the hash chain, which is currently about 2MB and very quick to verify (less than a second to verify the whole chain).  If the network becomes very large, like over 100,000 nodes, this is what we'll use to allow common users to do transactions without being full blown nodes.  At that stage, most users should start running client-only software and only the specialist server farms keep running full network nodes, kind of like how the usenet network has consolidated. \nSPV is not implemented yet, and won't be implemented until far in the future, but all the current implementation is designed around supporting it.""
+										2011 - Patrick Strateman (phantomcircuit) makes first commits to Libbitcoin, a set of cross platform, open source C++ libraries for building bitcoin applications. The toolkit consists of libraries, examples, tests and applications. The project was established on three principles[1]: Privacy: Bitcoin should always remain as private as possible for its users. Scalability: Bitcoin built today with the future in mind. Integrity: No individual or group should have enough power over the network to compromise its original aims.
+										2012 - First Bitcoin class in a public school. It was a 4th grade class in Las Vegas
+										2015 - Evolution darknet marketplace goes down, citing technical difficulties. The shut down was soon discovered to be an exit scam, with the operators of the site shutting down abruptly in order to steal the approximately $12 million in bitcoins it was holding as escrow"
 5/19/2021	2011 - Amir Taaki submits first Bitcoin Improvement Proposal BIP0001 which describes what a BIP is
 5/20/2021	
 5/21/2021	
 5/22/2021	2010 - Pizza Day - The first, real-world transaction using Bitcoins takes place when a Jacksonville, Florida programmer, Laszlo Hanyecz, offers to pay 10,000 Bitcoins for a pizza on the Bitcoin Forum. At the time, the exchange rate put the purchase price for the pizza at around US$25.
-5/23/2021	"2010 -  ""The price of .com registrations is lower than it should be, therefore any good name you might think of is always already taken by some domain name speculator.  Fortunately, it's standard for open source projects to be .org.""
-2017 - NY Disagreement Day
- The ""New York Agreement"" was reached on this day in 2017 that began the fork wars in earnest with the initiation of the SegWit2X proposal."
-5/24/2021	"2003 - Whirlpool Hashing Function published by Paulo S.L.M. Barreto and Vincent Rijmen which describes Whirlpool, a one-way, collision resistant 512-bit
-hashing function operating on messages less than 2^256 bits in length."
+5/23/2021	2010 - "The price of .com registrations is lower than it should be, therefore any good name you might think of is always already taken by some domain name speculator.  Fortunately, it's standard for open source projects to be .org.""
+										2017 - NY Disagreement Day - The "New York Agreement" was reached on this day in 2017 that began the fork wars in earnest with the initiation of the SegWit2X proposal.
+5/24/2021	2003 - Whirlpool Hashing Function published by Paulo S.L.M. Barreto and Vincent Rijmen which describes Whirlpool, a one-way, collision resistant 512-bithashing function operating on messages less than 2^256 bits in length.
+
 5/25/2021	
-5/26/2021	2010 -  "Does anyone want to translate the Bitcoin client itself?  It would be great to have at least one other language in the 0.3 release."
+5/26/2021	2010 - Does anyone want to translate the Bitcoin client itself?  It would be great to have at least one other language in the 0.3 release."
 5/27/2021	2011 - User TTbit offers 10,000 BTC to buy a cessna single-engine aircraft
 5/28/2021	
 5/29/2021	
