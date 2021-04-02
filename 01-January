@@ -33,6 +33,7 @@ QR   2021 - Gigi - Bitcoin is Time https://archive.is/Rn0XD
 1/21 2016 - Launch of Segregated Witness Testnet. This development began with a research effort by Bitcoin Core developer, Dr. Pieter Wuille, initially focused on addressing transaction malleability, a longstanding and well-known concern and priority. However, in the process of this research, and in the narrowing toward a solution, additional properties of the solution were discovered that allow for increasing the block size while also simultaneously opening up some incredibly exciting secondary benefits. This effort was initiated by Dr. Pieter Wuille, but included contributions from many others, with particular thanks to Eric Lombrozo, Johnson Lau, Alex Morcos, Nicolas Dorier, Bryan Bishop, Gregory Maxwell, Peter Todd, Cory Fields, Suhas Daftuar, and Luke-Jr. Popular wallets and supporting libraries have stated they will support Segwit including Ledger, Trezor, Electrum, and Bitgo.
 1/22 2013 - BitPay, a Bitcoin payment processing company, announces that it has surpassed 10,000 Bitcoin transactions for its merchants, with no cases of payment fraud reported.
 1/23
+QR   2019 - Gregory Trubetskoy - Blockchain Proof-of-Work Is a Decentralized Clock https://archive.is/8p66i
 1/24
 QR   2020 - Parker Lewis - Bitcoin Obsoletes All Other Money https://archive.is/PTseu
 1/25	
