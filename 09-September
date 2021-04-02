@@ -26,6 +26,7 @@ QR   2019 - Dhruv Bansal - Bitcoin Astronomy https://archive.is/6jumi
      2010 - Bitcoin Pooled Mining (operated by slush), a method by which several users collectively mine Bitcoins and share in the benefits, mines its first block.
      2018 - CVE-2018-17144, a fix for which was released in Bitcoin Core versions 0.16.3 and 0.17.0rc4, includes both a Denial of Service component and a critical inflation vulnerability."	
 9/19 2010 -  "I don't know anything about any of the bug trackers.  If we were to have one, we would have to make a thoroughly researched choice. We're managing pretty well just using the forum.  I'm more likely to see bugs posted in the forum, and I think other users are much more likely to help resolve and ask follow up questions here than if they were in a bug tracker.  A key step is other users helping resolve the simple stuff that's not really a bug but some misunderstanding or confusion. I keep a list of all unresolved bugs I've seen on the forum.  In some cases, I'm still thinking about the best design for the fix.  This isn't the kind of software where we can leave so many unresolved bugs that we need a tracker for them."	
+QR   2017 - Francis Pouliot - Catallaxy: the origins of Bitcoin, innovation and spontaneous order https://archive.is/gEyKs
 9/20		
 9/21	
 9/22	
