@@ -1,5 +1,6 @@
 11/1 2008 - "I've been working on a new electronic cash system that's fully peer-to-peer, with no trusted third party.""
      2008 - "The main properties Double-spending is prevented with a peer-to-peer network. No mint or other trusted parties. Participants can be anonymous. New coins are made from Hashcash style proof-of-work. The proof-of-work for new coin generation also proof-of-workers the network to prevent double-spending."""
+QR   2018 - Nic Carter - Bitcoin’s Existential Crisis https://archive.is/Lvl6T
 11/2 2008 - "Long before the network gets anywhere near as large as that, it would be safe for users to use Simplified Payment Verification (section 8) to check for double spending, which only requires having the chain of block headers, or about 12KB per day."" 
      2008 - "Only people trying to create new coins would need to run network nodes."" 
      2008 - "At first, most users would run network nodes, but as the network grows beyond a certain point, it would be left more and more to specialists with server farms of specialized hardware. A server farm would only need to have one node on the network and the rest of the LAN connects with that one node."" "
