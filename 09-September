@@ -6,6 +6,7 @@
 9/5 1979 - Ralph Merkle files patent for "Merkle Tree" . The invention comprises a method of providing a digital signature for purposes of authentication of a message, which utilizes an authentication tree function of a one-way function of a secret number. The patent expired 20 years later on this date in 1999.	
 9/6 2011 - Mike Caldwell begins minting physical Bitcoins, naming the coins Casacius Coins.	
 QR  2019 - Parker Lewis - Bitcoin, Not Blockchain https://archive.is/G0ECX
+QR  2019 - Anthony Pompliano and Michael Goldstein on Bitcoin and the Cantillon Effect https://archive.is/ykazh
 9/7 2010 - "Another option is to reduce the number of free transactions allowed per block before transaction fees are required.  Nodes only take so many KB of free transactions per block before they start requiring at least 0.01 transaction fee. The threshold should probably be lower than it currently is. I don't think the threshold should ever be 0.  We should always allow at least some free transactions."	
 QR  2019 - Nic Carter - A Most Peaceful Revolution https://archive.is/P1r7d
 9/8 2010 - "The threshold can easily be changed in the future.  We can decide to increase it when the time comes.  It's a good idea to keep it lower as a circuit breaker and increase it as needed.  If we hit the threshold now, it would almost certainly be some kind of flood and not actual use.  Keeping the threshold lower would help limit the amount of wasted disk space in that event."
