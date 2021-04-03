@@ -23,6 +23,7 @@ QR   2018 - Gigi - Bitcoin's Energy Consumption https://web.archive.org/web/2021
 6/13 2011 - Bitcoin Forum member, allinvain, claimed to have had 25,000 BTC stolen from his Bitcoin wallet. At the time, the exchange rate put the amount close to US$375,000.	
 6/14 2010 - "SHA-256 is very strong. It's not like the incremental step from MD5 to SHA1.  It can last several decades unless there's some massive breakthrough attack. If SHA-256 became completely broken, I think we could come to some agreement about what the honest block chain was before the trouble started, lock that in and continue from there with a new hash function."
      2011 - WikiLeaks begins accepting anonymous Bitcoin donations."	
+QR   2018 - Aaron van Wirdum - If Bitcoin Had a First Draft, Wei Dai’s B-Money Was It https://bitcoinaudible.com/?p=76
 6/15		
 6/16		
 6/17 2010 - "The nature of Bitcoin is such that once version 0.1 was released, the core design was set in stone for the rest of its lifetime.  Because of that, I wanted to design it to support every possible transaction type I could think of.  The problem was, each thing required special support code and data fields whether it was used or not, and only covered one special case at a time.  It would have been an explosion of special cases.  The solution was script, which generalizes the problem so transacting parties can describe their transaction as a predicate that the node network evaluates.  The nodes only need to understand the transaction to the extent of evaluating whether the sender's conditions are met."
