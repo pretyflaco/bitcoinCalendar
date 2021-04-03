@@ -2,6 +2,7 @@
 9/2		
 9/3 2012 - The fourth largest US Bitcoin exchange, Bitfloor, is hacked and loses 24,000 BTC (valued at approximately US$250,000 when the theft took place), which was the majority of the on-hand Bitcoins. Compromised servers result in access to encrypted backup files of wallet keys. All exchange operations are paused.
     2019 - Cryptoadvance releases Specter DIY with support for key generation & recovery, optional passphrase, address verification, single-key signing, displaying master public keys, switching between testnet / regtest / mainnet and somehow working with electrum ( change detection up to address 20 )
+QR  2018 - Aaron van Wirdum - Bitcoin as a PrivacyCoin https://bitcoinaudible.com/?p=909
 9/4		
 9/5 1979 - Ralph Merkle files patent for "Merkle Tree" . The invention comprises a method of providing a digital signature for purposes of authentication of a message, which utilizes an authentication tree function of a one-way function of a secret number. The patent expired 20 years later on this date in 1999.	
 9/6 2011 - Mike Caldwell begins minting physical Bitcoins, naming the coins Casacius Coins.	
