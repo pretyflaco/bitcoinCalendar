@@ -29,6 +29,7 @@ QR   2021 - Gigi - Bitcoin is an Idea https://archive.is/fHmYS
      2011 - WikiLeaks begins accepting anonymous Bitcoin donations."	
 QR   2018 - Aaron van Wirdum - If Bitcoin Had a First Draft, Wei Dai’s B-Money Was It https://bitcoinaudible.com/?p=76
 6/15		
+QR   2014 - Tuur Demeester - Why Bitcoin is the Petroleum of our day 
 6/16		
 6/17 2010 - "The nature of Bitcoin is such that once version 0.1 was released, the core design was set in stone for the rest of its lifetime.  Because of that, I wanted to design it to support every possible transaction type I could think of.  The problem was, each thing required special support code and data fields whether it was used or not, and only covered one special case at a time.  It would have been an explosion of special cases.  The solution was script, which generalizes the problem so transacting parties can describe their transaction as a predicate that the node network evaluates.  The nodes only need to understand the transaction to the extent of evaluating whether the sender's conditions are met."
      2010 - "The design supports a tremendous variety of possible transaction types that I designed years ago.  Escrow transactions, bonded contracts, third party arbitration, multi-party signature, etc.  If Bitcoin catches on in a big way, these are things we'll want to explore in the future, but they all had to be designed at the beginning to make sure they would be possible later."
