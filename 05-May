@@ -30,6 +30,7 @@ OR   2021 - Lyn Alden Analyzing Bitcoin's Network Effect https://archive.is/vNj4
 QR   2021 - Aaron Segal - Bitcoin Information Theory: B.I.T. https://archive.is/jyhrp
 QR   2018 - Jimmy Song - Why Blockchain is Hard https://archive.is/rAp62
 5/15 2017 - First Release of Joinmarket by Adam Gibson, a CoinJoin implementation aimed at improving the privacy and fungibility of bitcoin transactions.
+QR   2019 - Dan Held - Bitcoin's Security Is Fine https://archive.is/cyfHR
 QR   2019 - Stephan Livera - Intro to Bitcoin Austrian Thought https://archive.is/lDZae
 5/16 2010 - "Bitcoin addresses you generate are kept forever. A bitcoin address must be kept to show ownership of anything sent to it.  If you were able to delete a bitcoin address and someone sent to it, the money would be lost.  They're only about 500 bytes.""
      2010 - "When you generate a new bitcoin address, it only takes disk space on your own computer (like 500 bytes).  It's like generating a new PGP private key, but less CPU intensive because it's ECC.  The address space is effectively unlimited.  It doesn't hurt anyone, so generate all you want."""
