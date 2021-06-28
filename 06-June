@@ -42,15 +42,8 @@ QR   2019 - Tamas Blummer - There Can Be Only One https://archive.is/Gg9na
      2011 - Trading halts at TradeHill and Britcoin while security measures are reviewed. Users that were registered at MyBitcoin with the same username as on MtGox had their passwords hacked and balances stolen from around 600 MyBitcoin accounts, with one user losing more than 2,000 BTC."	
 6/20 2011 - The Electronic Frontier Foundation (EFF) discontinues the acceptance of donations in the form of Bitcoins for reasons of legal uncertainties.	
 6/21 2010 - "Lost coins only make everyone else's coins worth slightly more.  Think of it as a donation to everyone."
-     2016 - CSV softfork - Important upgrade instructions for miners TL;DR
-
-Check all your nodes have been upgraded to Bitcoin Core 0.12.1 or compatible software. This must happen before block #419328. Note that if your GBT client(s) implement the protocol correctly, you will need to patch in PR #8176 (patch) or use Bitcoin Knots which already includes it.
-
-If you hardcode the block version please unset bit 0 of the version field before block 419328, or preferably stop hardcoding it and let bitcoind do it automatically.
-
-Use a nLockTime value of 0xffffffff for the generation transaction to avoid any potential conflict with BIP113.
-
-If you have to use a different nLockTime value, you must follow the instructions carefully."	
+     2016 - CSV softfork - Important upgrade instructions for miners
+QR   2021 - Jonathan Bier - The Blocksize War – Chapter 14 – ASICBoost https://archive.is/YCDMA
 6/22		
 6/23		
 6/24 2011 - With Block 133056, the Bitcoin generation difficulty passes 1 million for the first time.	
