@@ -9,6 +9,7 @@ QR  2019 - Gigi - Bitcoin's Gravity https://archive.is/H9QlN
     2019 - Bitcoin Core release 0.18.0.
     2013 - Coinlab files a lawsuit against MtGox, alleging multiple counts of breach of contract that resulted in US$75 million in damages.
 5/3 2017 - Tonal Bitcoin reached parity with the US dollar, touching $1 per TBC for the first time
+QR  2021 - Jonathan Bier - The Blocksize War – Chapter 7 – Bitcoin Classic https://archive.is/D0BGS
 5/4	
 5/5
 QR  2021 - Nic Carter How much Energy does Bitcoin Actually Consume https://archive.is/Arg0V	
@@ -20,6 +21,7 @@ QR  2019 - Conner Brown - Bitcoin Has No Intrinsic Value — and That’s Great 
     2012 - An FBI report entitled ""Bitcoin Virtual Currency: Unique Features Present Distinct Challenges for Deterring Illicit Activity"" is leaked. The report was published on April 24, 2012 in order to bring attention to concerns that Bitcoin payment methods could facilitate illegal transactions for weapons and narcotics.
     2015 - Samourai Wallet inception with Reddit post that announces enforcement of BIP 39 passphrase when a wallet is created. It claims to be forged to keep transactions private, user identity masked, and funds secure."
 5/10	
+QR   2021 - Jonathan Bier - The Blocksize War – Chapter 8 – Hong Kong Roundtable https://archive.is/IMHSm
 5/11 2012 - Bitcoin exchange, Bitcoinica, is taken down following after hack results in a loss of over 18,000 Bitcoins, valued at approximately US$90,000.
      2020 - Third halving cuts block subsidy from 12.5 to 6.25. Final block of third epoch is mined by f2pool and contains the message: ""NYTimes 09/Apr/2020 With $2.3T Injection, Fed's Plan Far Exceeds 2008 Rescue"" "
 5/12 2011 - First room for rent for Bitcoin
@@ -35,6 +37,7 @@ QR   2019 - Stephan Livera - Intro to Bitcoin Austrian Thought https://archive.i
 5/16 2010 - "Bitcoin addresses you generate are kept forever. A bitcoin address must be kept to show ownership of anything sent to it.  If you were able to delete a bitcoin address and someone sent to it, the money would be lost.  They're only about 500 bytes.""
      2010 - "When you generate a new bitcoin address, it only takes disk space on your own computer (like 500 bytes).  It's like generating a new PGP private key, but less CPU intensive because it's ECC.  The address space is effectively unlimited.  It doesn't hurt anyone, so generate all you want."""
 5/17 2011 - First stripper being tipped bitcoin
+QR   2021 - Jonathan Bier - The Blocksize War – Chapter 9 – Faketoshi https://archive.is/c1Cc3
 5/18 2010 - "Simplified Payment Verification is for lightweight client-only users who only do transactions and don't generate and don't participate in the node network.  They wouldn't need to download blocks, just the hash chain, which is currently about 2MB and very quick to verify (less than a second to verify the whole chain).  If the network becomes very large, like over 100,000 nodes, this is what we'll use to allow common users to do transactions without being full blown nodes.  At that stage, most users should start running client-only software and only the specialist server farms keep running full network nodes, kind of like how the usenet network has consolidated. \nSPV is not implemented yet, and won't be implemented until far in the future, but all the current implementation is designed around supporting it.""
      2011 - Patrick Strateman (phantomcircuit) makes first commits to Libbitcoin, a set of cross platform, open source C++ libraries for building bitcoin applications. The toolkit consists of libraries, examples, tests and applications. The project was established on three principles[1]: Privacy: Bitcoin should always remain as private as possible for its users. Scalability: Bitcoin built today with the future in mind. Integrity: No individual or group should have enough power over the network to compromise its original aims.
      2012 - First Bitcoin class in a public school. It was a 4th grade class in Las Vegas
@@ -47,7 +50,7 @@ QR   2020   Nic Carter - The Last Word on Bitcoin’s Energy Consumption https:/
 5/23 2010 - "The price of .com registrations is lower than it should be, therefore any good name you might think of is always already taken by some domain name speculator.  Fortunately, it's standard for open source projects to be .org.""
 										2017 - NY Disagreement Day - The "New York Agreement" was reached on this day in 2017 that began the fork wars in earnest with the initiation of the SegWit2X proposal.
 5/24 2003 - Whirlpool Hashing Function published by Paulo S.L.M. Barreto and Vincent Rijmen which describes Whirlpool, a one-way, collision resistant 512-bithashing function operating on messages less than 2^256 bits in length.
-
+QR   2021 - Jonathan Bier - The Blocksize War – Chapter 10 – The DAO https://archive.is/fAbyW
 5/25	
 QR   2019 - Bitcoin 101 with Tuur Demeester https://archive.is/xmLjI
 5/26 2010 - Does anyone want to translate the Bitcoin client itself?  It would be great to have at least one other language in the 0.3 release."
@@ -60,3 +63,4 @@ QR   2004 - Nick Szabo - Unforgeable Costliness https://archive.li/kYpjA
 5/30
 QR   2018 - Murad Mahmudov and Adam Taché - Bitcoin: Past and Future https://archive.is/jEdSw
 5/31	
+QR   2021 - Jonathan Bier - The Blocksize War – Chapter 11 – Scaling III – Milan https://archive.is/nMZQR
