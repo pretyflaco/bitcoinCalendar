@@ -1,16 +1,19 @@
 7/1	
 7/2 2011 - First Canadian Bitcoin exchange opens
+QR  2018 - Tony Sheng - Crypto-incrementalism vs Crypto-anarchy https://bitcoinwords.github.io/cy18m7#crypto-incrementalism-vs-crypto-anarchy
 7/3	
 7/4	
 7/5 2010 - "Writing a description for this thing for general audiences is bloody hard.  There's nothing to relate it to."
+QR  2018 - Qiao Wang - The False Dichotomy of Utility and Store of Value https://bitcoinwords.github.io/cy18m7#the-false-dichotomy-of-utility-and-store-of-value
 QR  2020 - Robert Breedlove - Masters and Slaves of Money https://archive.is/5CTHP
 7/6 2010 - "Announcing version 0.3 of Bitcoin, the P2P cryptocurrency!  Bitcoin is a digital currency using cryptography and a distributed network to replace the need for a trusted central server.  Escape the arbitrary inflation risk of centrally managed currencies!  Bitcoin's total circulation is limited to 21 million coins.  The coins are gradually released to the network's nodes based on the CPU proof-of-worker they contribute, so you can get a share of them by contributing your idle CPU time."
 7/7 2010 - Bitcoin v0.3 released
 7/8	
+QR  2018 - Pierre Rochard - Bitcoin Governance https://archive.is/yq9ec
 7/9 2010 - "When someone tries to buy all the world's supply of a scarce asset, the more they buy the higher the price goes.  At some point, it gets too expensive for them to buy any more.  It's great for the people who owned it beforehand because they get to sell it to the corner at crazy high prices.  As the price keeps going up and up, some people keep holding out for yet higher prices and refuse to sell.""
     2016 - Second Bitcoin Halving cuts block subsidy from 25 to 12.5"
 QR  2016 - Saifedean Ammous - The Bitcoin Halving and Monetary Competition https://archive.is/icyeg
-QR  2018 - Pierre Rochard - Bitcoin Governance https://archive.is/yq9ec
+QR  2018 - Nik Bhatia - The Bitcoin Risk Spectrum https://bitcoinwords.github.io/cy18m7#the-bitcoin-riskspectrum 
 7/10 2010 - "The timing is strange, just as we are getting a rapid increase in 3rd party coverage after getting slashdotted.  I hope there's not a big hurry to wrap the discussion and decide.  How long does Wikipedia typically leave a question like that open for comment? It would help to condense the article and make it less promotional sounding as soon as possible.  Just letting people know what it is, where it fits into the electronic money space, not trying to convince them that it's good.  They probably want something that just generally identifies what it is, not tries to explain all about how it works."
 QR   2018 - Nik Bhatia - The Bitcoin Risk Spectrum https://bitcoinaudible.com/?p=82
 7/11 2010 - Bitcoin v0.3 release mentioned on slashdot, bringing a large influx of new bitcoin users
@@ -32,6 +35,7 @@ QR   2018 - Aaron van Wirdum - With Bit Gold, Nick Szabo Was Inches From Inventi
 QR   2020 - Gigi - True Names Not Required https://archive.is/6QDHi
 7/22 2011 - BitCoins Mobile, the first Bitcoin application for iPad was released by Intervex Digital
      2012 - One millionth topic reply was posted on the unofficial Bitcoin Forum
+QR   2018 - Brendan Bernstein - Cryptocurrencies are money, not equity https://bitcoinwords.github.io/cy18m7#cryptocurrencies-are-money-not-equity
 QR   2019 - Nic Carter - It’s the settlement assurances, stupid https://archive.is/5pRXy
 QR   2019 - Anthony Pompliano and Saifedean Ammous on The Future of Bitcoin and the Global Economy https://archive.is/OJM87
 7/23 2010 - "By making some adjustments to the database settings, I was able to make the initial block download about 5 times faster.  It downloads in about 30 minutes. The database default had it writing each block to disk synchronously, which is not necessary.  I changed the settings to let it cache the changes in memory and write them out in a batch.  Blocks are still written transactionally, so either the complete change occurs or none of it does, in either case the data is left in a valid state. I only enabled this change during the initial block download.  When you come within 2000 blocks of the latest block, these changes turn off and it slows down to the old way."
@@ -47,5 +51,6 @@ QR   2011 - Tribute to Len Sassaman included in the blockchain https://archive.i
 7/28	
 7/29 2010 - "If you don't believe me or don't get it, I don't have time to try to convince you, sorry."" Satoshi shuts down bytemaster after explaining ""The current system where every user is a network node is not the intended configuration for large scale.  That would be like every Usenet user runs their own NNTP server.  The design supports letting users just be users.  The more burden it is to run a node, the fewer nodes there will be.  Those few nodes will be big server farms.  The rest will be client nodes that only do transactions and don't generate."
      2010 - "Actually, it works well to just PM me.  I'm the one who's going to be fixing it.  If you find a security flaw, I would definitely like to hear from you privately to fix it before it goes public.""
+QR   2018 - Nic Carter & Hasu - Visions of Bitcoin https://bitcoinwords.github.io/cy18m7#visions-of-bitcoin
 7/30	
 7/31	
