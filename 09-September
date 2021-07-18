@@ -3,6 +3,7 @@
 9/3 2012 - The fourth largest US Bitcoin exchange, Bitfloor, is hacked and loses 24,000 BTC (valued at approximately US$250,000 when the theft took place), which was the majority of the on-hand Bitcoins. Compromised servers result in access to encrypted backup files of wallet keys. All exchange operations are paused.
     2019 - Cryptoadvance releases Specter DIY with support for key generation & recovery, optional passphrase, address verification, single-key signing, displaying master public keys, switching between testnet / regtest / mainnet and somehow working with electrum ( change detection up to address 20 )
 QR  2018 - Aaron van Wirdum - Bitcoin as a PrivacyCoin https://bitcoinaudible.com/?p=909
+QR  2018 - LaurentMT - The Yin and Yang of Bitcoin https://bitcoinwords.github.io/cy18m9#the-yin-and-yang-of-bitcoin
 9/4		
 9/5 1979 - Ralph Merkle files patent for "Merkle Tree" . The invention comprises a method of providing a digital signature for purposes of authentication of a message, which utilizes an authentication tree function of a one-way function of a secret number. The patent expired 20 years later on this date in 1999.	
 9/6 2011 - Mike Caldwell begins minting physical Bitcoins, naming the coins Casacius Coins.	
@@ -16,19 +17,25 @@ QR  2019 - Nic Carter - A Most Peaceful Revolution https://archive.is/P1r7d
 QR  2017 - Basic Crypto - How to kill Bitcoin https://archive.is/LziIF 
 9/10	
 QR  1994 - Tim May - The Cyphernomicon https://archive.is/WUblN
+QR  2018 - LaurentMT - Cliffhangers https://bitcoinwords.github.io/cy18m9#cliffhangers
 9/11
 QR   2014 - Michael Goldstein - Everyone's a Scammer https://archive.is/SzGvj
+QR   2018 - Paul Sztorc - Expensive Privacy is Useless Privacy https://bitcoinwords.github.io/cy18m9#expensive-privacy-is-useless-privacy
 9/12	
 9/13	
 QR   2019 - Dhruv Bansal - Bitcoin Astronomy https://archive.is/6jumi
 9/14 2010 - In the name of the Bitcoin Store, jgarzik offers to puddinpop to open source their Windows-based CUDA client. The offer was in the form of 10,000 BTC which was valued at around US$600 to US$650 at the time. 
      2010 - Block 79,764 is the first to be mined using split allocation of the generation reward. 
      2012 - First warrant to seize Bitcoins. U.S. Secret Service seizing Michael M. Brown's bitcoins in the Romney Taxes For Ransom case."	
+QR   2018 - Dan Held - PoW is Efficient https://bitcoinwords.github.io/cy18m9#pow-is-efficient
+QR   2018 - David Puell- The Essence of Bitcoin https://bitcoinwords.github.io/cy18m9#the-essence-of-bitcoin
 9/15 2012 - The London 2012 Bitcoin Conference is held.	
 QR   2016 - Elizabeth Stark - Lightning Network https://archive.is/RKuEs
+QR   2018 - JP Thor - Bitcoin as a store of energy https://bitcoinwords.github.io/cy18m9#bitcoin-as-a-store-of-energy
 9/16 2012 - Bitcoin Conference in London	
 QR   2019 - Giacomo Zucco - Discovering Bitcoin – From Cavemen to Lightning, Intro & Part 1 https://bitcoinaudible.com/?p=4587
 9/17		
+QR   2018 - LaurentMT - Electric Money https://bitcoinwords.github.io/cy18m9#electric-money
 QR   2019 - Giacomo Zucco - Discovering Bitcoin Part 2 – About People https://bitcoinaudible.com/?p=4591
 9/18 2010 - following a contribution by jgarzik, puddinpop releases the source to their windows-based CUDA client under MIT license, open sourced by the Bitcoin Store.
      2010 - Bitcoin Pooled Mining (operated by slush), a method by which several users collectively mine Bitcoins and share in the benefits, mines its first block.
@@ -37,6 +44,7 @@ QR   2019 - Giacomo Zucco - Discovering Bitcoin Part 3 Introducing Money https:/
 9/19 2010 - "I don't know anything about any of the bug trackers.  If we were to have one, we would have to make a thoroughly researched choice. We're managing pretty well just using the forum.  I'm more likely to see bugs posted in the forum, and I think other users are much more likely to help resolve and ask follow up questions here than if they were in a bug tracker.  A key step is other users helping resolve the simple stuff that's not really a bug but some misunderstanding or confusion. I keep a list of all unresolved bugs I've seen on the forum.  In some cases, I'm still thinking about the best design for the fix.  This isn't the kind of software where we can leave so many unresolved bugs that we need a tracker for them."	
 QR   2014 - Konrad Graf - Bitcoin: Magic, fraud, or 'sufficiently advanced technology'? https://archive.is/E6Vbj
 QR   2017 - Francis Pouliot - Catallaxy: the origins of Bitcoin, innovation and spontaneous order https://archive.is/gEyKs
+QR   2018 - Christopher Bendiksen - The Bitcoin Analyst Brain: A Primer https://bitcoinwords.github.io/cy18m9#the-bitcoin-analyst-brain-a-primer
 QR   2019 - Giacomo Zucco - Discovering Bitcoin Part 4 – A Wrong Turn & A New Plan https://bitcoinaudible.com/?p=4623
 9/20		
 QR   2019 - Giacomo Zucco - Discovering Bitcoin Part 5 – Digital Scarcity https://bitcoinaudible.com/?p=4636
@@ -44,10 +52,12 @@ QR   2020 - Gigi - On Bitcoin's UX https://archive.is/SAssJ
 9/21	
 QR   2019 - Giacomo Zucco - Discovering Bitcoin Part 6 – Digital Contracts https://bitcoinaudible.com/?p=4656
 9/22	
+QR   2018 - JP Thor - Bitcoin as a Store of Value https://bitcoinwords.github.io/cy18m9#bitcoin-as-a-store-of-value
 QR   2019 - Giacomo Zucco - Discovering Bitcoin Part 7 – Missing Pieces https://bitcoinaudible.com/?p=4684
 9/23 2010 -  "Bitcoin would be convenient for people who don't have a credit card or don't want to use the cards they have, either don't want the spouse to see it on the bill or don't trust giving their number to "porn guys", or afraid of recurring billing."	
 9/24 2012 - Phillip Moustakis, a Senior Attorney in the Enforcement Division of the U.S. Securities and Exchange Commission, sends an email that announces an investigation of Bitcoin Savings and Trust after allegations were made that the Ponzi scheme decreased the value of Bitcoins by as much as 30 percent.	
 9/25	
+QR   2018 - Misir Mahmudov - Mass adoption of Bitcoin is inevitable https://bitcoinwords.github.io/cy18m9#tweetstorm-mass-adoption-of-bitcoin-is-inevitable
 9/26 2012 - First Taxi service accepts Bitcoin (in Herefordshire, UK.)	
 9/27 2012 - Bitcoin Foundation Day: The Bitcoin Foundation is formed, implementing a core development team for the protocol and a body to oversee the digital currency. - No one controls Bitcoin, remember that on this day.	
 QR   2019 - Parker Lewis - Bitcoin is Not Backed by Nothing https://archive.is/aW1kh
@@ -57,6 +67,7 @@ QR   2019 - Brady Swenson and Robert Breedlove on Understanding Bitcoin from Fir
 QR   2017 - Michael Kerbleski - Guess My Bitcoin Private Key https://archive.is/0SKrm
 9/29 2010 - kermit discovers a microtransactions exploit which precipitates the Bitcoin v0.3.13 release
      2017 - BTCPayserver v1.0.0.0 released on GitHub by Nicolas Dorier"	
+QR   2018 - Jameson Lopp - A Modest Privacy Protection Model https://bitcoinwords.github.io/cy18m9#a-modest-privacy-protection-proposal
 9/30 2010 - "I wish rather than deleting the article, they put a length restriction.  If something is not famous enough, there could at least be a stub article identifying what it is.  I often come across annoying red links of things that Wiki ought to at least have heard of. \nThe article could be as simple as something like  "Bitcoin is a peer-to-peer decentralised electronic currency." The more standard Wiki thing to do is that we should have a paragraph in one of the more general categories that we are an instance of, like Electronic Currency or Electronic Cash.  We can probably establish a paragraph there.  Again, keep it short.  Just identifying what it is."
      2010 - "As you figured out, the root problem is we shouldn't be counting or spending transactions until they have at least 1 confirmation.  0/unconfirmed transactions are very much second class citizens.  At most, they are advice that something has been received, but counting them as balance or spending them is premature."
      Historical Prices 
