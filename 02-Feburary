@@ -1,6 +1,7 @@
 2/1
 QR   2019 - Jerry Brito - The Case for Electronic Cash https://web.archive.org/web/20210403104018/https://www.coincenter.org/app/uploads/2020/05/the-case-for-electronic-cash-coin-center.pdf
 2/2	
+QR   2019 - Su Zhu & Hasu - Why Monetary Maximalism could fall short of expectations https://bitcoinwords.github.io/cy19m2#why-monetary-maximalism-could-fall-short-of-expectations
 QR   2020 - Saifedean Ammous - The Bitcoin Standard Research Bulletin: How to really kill Bitcoin https://archive.org/download/tbsrb-5/TBSRB5.pdf
 2/3  2016 - Luke Dashjr submits BIP 0002 which replaces BIP 0001
 QR   2018 - Murch - Excited for Schnorr Signatures https://bitcoinwords.github.io/cy18m2#excited-for-schnorr-signatures
@@ -21,6 +22,7 @@ QR   2019 - Jerry Brito - We must protect our ability to transact privately onli
 2/8	
 2/9  2011 - Bitcoin reaches parity with the US dollar for the first time and touches US$1.00/BTC at MtGox. This event prompts several IT journals (Slashdot, Hacker News) to report about Bitcoin.
 QR   2017 - Nick Szabo - Money, blockchains, and social scalability https://archive.is/454kk
+QR   2019 - David Nage - Demystifying Blockchain not Bitcoin https://bitcoinwords.github.io/cy19m2#demystifying-blockchain-not-bitcoin
 2/10 2011 - Bitcoin.org website struggles under increased traffic, resulting from mentions on Slashdot, Hacker News and Twitter following the news of US$/BTC parity being reached.
 2/11 2009 - "I've developed a new open source P2P e-cash system called Bitcoin. It's completely decentralized, with no central server or trusted parties, because everything is based on crypto proof instead of trust. Give it a try, or take a look at the screenshots and design paper."
      2009 - "Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve. We have to trust them with our privacy, trust them not to let identity thieves drain our accounts. Their massive overhead costs make micropayments impossible."
@@ -32,6 +34,7 @@ QR   2017 - Nick Szabo - Money, blockchains, and social scalability https://arch
      2009 - "The result is a distributed system with no single point of failure. Users hold the crypto keys to their own money and transact directly with each other, with the help of the P2P network to check for double-spending."
 QR   2018 - Hugo Nguyen - The Anatomy of Proof-of-Work https://archive.is/EyY2A
 2/12	
+QR   2019 - Su Zhu & Hasu - Bitcoin is a hedge against the cashless society https://bitcoinwords.github.io/cy19m2#bitcoin-is-a-hedge-against-the-cashless-society
 2/13 2012 - The second largest Bitcoin exchange in the world, TradeHill, shuts down, citing regulatory problems and the loss of US$100,000 (following a dispute with a payment processor) as contributing factors.
 QR   2021 - Allen Farrington - Bitcoin is Venice https://archive.is/c0HCw
 QR   2021 - William Clemente III - The Bitcoin Black Hole Effect https://archive.is/hvmUW
@@ -39,12 +42,16 @@ QR   2021 - William Clemente III - The Bitcoin Black Hole Effect https://archive
      2010 - "In a few decades when the reward gets too small, the transaction fee will become the main compensation for nodes."
      2010 - "If you're sad about paying the fee, you could always turn the tables and run a node yourself and maybe someday rake in a 0.44 fee yourself."
      2011 - An Australian member of the Bitcoin Forum attempts to sell his 1984 Celica Supra for 3,000 BTC, and becomes the first person to offer a vehicle in exchange for Bitcoins.
+QR   2019 - David Puell - Bitcoin Delta Capitalization https://bitcoinwords.github.io/cy19m2#bitcoin-delta-capitalization
+QR   2019 - Paul Sztorc - Security Budget in the Long Run https://bitcoinwords.github.io/cy19m2#security-budget-in-the-long-run
 2/15 2009 - "A lot of people automatically dismiss e-currency as a lost cause because of all the companies that failed since the 1990's. I hope it's obvious it was only the centrally controlled nature of those systems that doomed them. I think this is the first time we're trying a decentralized, non-trust-based system."
      2013 - Reddit begins accepting bitcoins for purchases of Reddit Gold."
+QR   2019 - Patrick Dugan - Rehypothecation: BTC's patch to becoming king of collateral https://bitcoinwords.github.io/cy19m2#rehypothecation-btcs-path-to-becoming-king-of-collateral
 2/16 2012 - First auto title loan for bitcoins requested. 
 QR   2021 - Saifedean Ammous & Michael Saylor on the Fiat Standard https://web.archive.org/web/20210403123313/https://saifedean.com/podcast/34-michael-saylor-on-the-fiat-standard/
 2/17 2010 - Trading begins on Bitcoin Market.
      2012 - A legal complaint against bitcoinica.com was filed with the Spanish authorities, given their legal status is unknown and any requests for providing information are left unanswered. (Source: https://bitcointalk.org/index.php?topic=64176.0) "
+QR   2019 - Saifedean Ammous - Power and Money https://bitcoinwords.github.io/cy19m2#tweetstorm-power-and-money
 2/18 2009 - "It is a global distributed database, with additions to the database by consent of the majority, based on a set of rules they follow  - Whenever someone finds proof-of-work to generate a block, they get some new coins. The proof-of-work difficulty is adjusted every two weeks to target an average of 6 blocks per hour (for the whole network). The coins given per block is cut in half every 4 years"
      2009 - "You could say coins are issued by the majority. They are issued in a limited, predetermined amount."
      2009 - "To Sepp's question, indeed there is nobody to act as central bank or federal reserve to adjust the money supply as the population of users grows. That would have required a trusted party to determine the value, because I don't know a way for software to know the real world value of things."
@@ -56,9 +63,12 @@ QR   2021 - Gigi - Bitcoin Privacy: Best Practices https://archive.is/WHvaq
 2/19 2013 - Bitcoin Client v0.8 released featuring improved download speed and Bloom Filtering
      2013 - Silver parity reached. Bitcoin exchange rate at $29.65 is higher than an ounce of silver
      2021 - Bitcoin hits 1 trillion USD market capitalization"
+QR   2019 - Alex Gladstein - A Human Rights Activist's Response to Bitcoin Critics https://bitcoinwords.github.io/cy19m2#a-human-rights-activists-response-to-bitcoin-critics
 QR   2019 - Aleks Svetski - Why Bitcoin Matters https://archive.is/paFjV
 2/20	
 QR   2014 - Andreas Antonopoulos - Bitcoin Security Model: Trust By Computation https://archive.is/atIny
+QR   2019 - Tuur Demeester, Tamás Blummer and Michiel Lescrauwaet - A Primer on Bitcoin Investor Sentiment and Changes in Saving Behaviour https://bitcoinwords.github.io/cy19m2#a-primer-on-bitcoin-investor-sentiment-and-changes-in-saving-behavior
+QR   2019 - Misir Mahmudov - Bitcoin's Incentive System or When The Stars Align https://bitcoinwords.github.io/cy19m2#bitcoins-incentive-system-or-when-the-stars-align
 2/21 2010 - "A rational market price for something that is expected to increase in value will already reflect the present value of the expected future increases.  In your head, you do a probability estimate balancing the odds that it keeps increasing."
      2010 - "The price of any commodity tends to gravitate toward the production cost.  If the price is below cost, then production slows down.  If the price is above cost, profit can be made by generating and selling more.  At the same time, the increased production would increase the difficulty, pushing the cost of generating towards the price."
      2010 - "At the moment, generation effort is rapidly increasing, suggesting people are estimating the present value to be higher than the current cost of production."
@@ -71,6 +81,7 @@ QR   2021 - Leung - Len Sassaman and Satoshi: a Cypherpunk History https://archi
 2/24 2010 - "That would be nice at point-of-sale.  The cash register displays a QR-code encoding a bitcoin address and amount on a screen and you photo it with your mobile."
      2013 - The Death of MtGox | Roger Shame day - On this day in 2013 MtGox, the largest BTC exchange in the world, went offline due to insolvency
 2/25 2011 - WeUseCoins.com is registered and built into a Bitcoin resource and creates one of the most watched videos on Bitcoin.
+QR   2019 - Jack Purdy - Crypto Governance: The Startup vs. Nation-State Approach https://bitcoinwords.github.io/cy19m2#crypto-governance-the-startup-vs-nation-state-approach
 2/26 2010 - "How does everyone feel about the B symbol with the two lines through the outside? Can we live with that as our logo?"
      2016 - First successful Zero-Knowledge Contingent Payment (ZKCP) on the Bitcoin network
 2/27 2012 - Bitcoin Magazine launches with articles about Bitcoin and crypto-currency.
