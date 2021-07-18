@@ -1,5 +1,7 @@
 1/1
+QR  2019 - Jill Carlson - Cryptocurrency: The Canary in the Coal Mine https://bitcoinwords.github.io/cy19m1#cryptocurrency-the-canary-in-the-coal-mine
 1/2 2011 - Tonal Bitcoin, designed for those who prefer the Tonal number system, standardizes its units.
+QR  2019 - Vijay Boyapati - Bitcoin's 10 Year Anniversary https://bitcoinwords.github.io/cy19m1#tweetstorm-bitcoins-10-year-anniversary
 QR  2021 - Ioni Appelberg - Bitcoin's price curve will not be S-shaped https://www.youtube.com/watch?v=7vl_ziH6OJo
 1/3 2009 - Genesis Block is mined by Satoshi Nakamoto. The block contains a message: "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"
 QR  2019 - Hugo Nguyen - Bitcoin: Two Parts Math, One Part Biology https://archive.is/yLlHr 
@@ -7,8 +9,13 @@ QR  2019 - Hugo Nguyen - Bitcoin: Two Parts Math, One Part Biology https://archi
 1/5 1982 - Ralph Merkle is granted a patent for the invention of "Merkle Tree"
 QR  2020 - Erik Cason - The Oath of Machines, Liturgy of Code, and Promise of Bitcoin https://archive.is/pOTxo
 1/6 2011 - Guy pays random guy for work performed (holding a sign on a busy intersection) - in blog post titled "The Power of Bitcoins" he writes: "These photos prove that people will do anything for bitcoins! There is a Bitcoin Rush! I paid a guy 32 bitcoins to dress up in a crazy outfit and hold a sign for me in a busy interestion."
+QR  2019 - Dan Held - Planting Bitcoin: Species https://bitcoinwords.github.io/cy19m1#planting-bitcoin--species-14
+QR  2019 - Dan Held - Planting Bitcoin: Season https://bitcoinwords.github.io/cy19m1#planting-bitcoin---season-24
+QR  2019 - Dan Held - Planting Bitcoin: Soil https://bitcoinwords.github.io/cy19m1#planting-bitcoin--soil-34
+QR  2019 - Dan Held - Planting Bitcoin: Gardening https://bitcoinwords.github.io/cy19m1#planting-bitcoin---gardening-44
 QR  2021 - Preston Pysh and Jack Mallers on Bitcoin Disrupting Payment Clearing Houses https://archive.is/YeN7K 
 1/7 2016 - Bitcoin Core releases statement: Bitcoin is a “peer-to-peer version of electronic cash that allows online payments to be sent directly from one party to another without going through a financial institution”. Our vision for Bitcoin is to expand the flexibility of the system to work efficiently at extremely high scale, while at the same time maintaining security and the core properties of decentralization that make Bitcoin unique.
+QR  2019 - Misir Mahmudov & Yassin Elmandjra - Bitcoin: Winner Takes Most or Winner Takes All? https://bitcoinwords.github.io/cy19m1#bitcoin-winner-takes-most-or-winner-takes-all
 1/8 2011 - History of Bitcoin page created after replicating from original Bitcoin History page on Bitcoin.org
     2011 - Bitcoin Pooled Mining reached a total of 10,000 Mhash/s.
     2017 - Lightning Pay Day The first real purchase over the Lightning Network was sent on this day in 2018 for a TorGuard VPN subscription."
@@ -25,6 +32,7 @@ QR   2019 - Gigi - Economic Teachings of Bitcoin https://archive.is/63eOO
 1/12 2009 - Genesis Transaction Day The first transaction ever broadcast over the Bitcoin network is send by Satoshi Nakamoto to Hal Finney in block 170. This is the only transaction known to have been sent by the creator of Bitcoin.
 1/13
 QR   2018 - Elaine Ou - My Plan for Hyperbitcoinization https://bitcoinwords.github.io/cy18m1#my-plan-for-hyperbitcoinization
+QR   2019 - Nic Carter - Unpacking Bitcoin's Assurances https://bitcoinwords.github.io/cy19m1#unpacking-bitcoins-assurances
 1/14 2014 - Evolution Marketplace launched and saw rapid growth within its first several months, helped in part by law enforcement seizures of some of its competitors during the six-month-long investigation codenamed Operation Onymous
      2016 - Lightning Whitepaper Day Official release of the Lightning Network Whitepaper by Joseph Poon and Thaddeus Dryja."
 QR   2021 - Gigi - Bitcoin is Time https://archive.is/Rn0XD
@@ -38,6 +46,7 @@ QR   2021 - Gigi - Bitcoin is Time https://archive.is/Rn0XD
 1/19
 QR   2018 - Dhruv Bansal - Stop comparing Bitcoin to the Internet https://bitcoinwords.github.io/cy18m1#stop-comparing-bitcoin-to-the-internet
 1/20	
+QR   2019 - Robert Breedlove - Money, Bitcoin and Time: 1 of 3 https://bitcoinwords.github.io/cy19m1#money-bitcoin-and-time-1-of-3
 1/21 2016 - Launch of Segregated Witness Testnet. This development began with a research effort by Bitcoin Core developer, Dr. Pieter Wuille, initially focused on addressing transaction malleability, a longstanding and well-known concern and priority. However, in the process of this research, and in the narrowing toward a solution, additional properties of the solution were discovered that allow for increasing the block size while also simultaneously opening up some incredibly exciting secondary benefits. This effort was initiated by Dr. Pieter Wuille, but included contributions from many others, with particular thanks to Eric Lombrozo, Johnson Lau, Alex Morcos, Nicolas Dorier, Bryan Bishop, Gregory Maxwell, Peter Todd, Cory Fields, Suhas Daftuar, and Luke-Jr. Popular wallets and supporting libraries have stated they will support Segwit including Ledger, Trezor, Electrum, and Bitgo.
 1/22 2013 - BitPay, a Bitcoin payment processing company, announces that it has surpassed 10,000 Bitcoin transactions for its merchants, with no cases of payment fraud reported.
 1/23
@@ -46,6 +55,8 @@ QR   2019 - Gregory Trubetskoy - Blockchain Proof-of-Work Is a Decentralized Clo
 QR   2020 - Parker Lewis - Bitcoin Obsoletes All Other Money https://archive.is/PTseu
 1/25	
 1/26 2016 - A detailed explanation of SegWit Benefits is published on the Bitcoin Core Blog
+QR   2019 - Robert Breedlove - Money, Bitcoin and Time: 2 of 3 https://bitcoinwords.github.io/cy19m1#money-bitcoin-and-time-2-of-3
+QR   2019 - Robert Breedlove - Money, Bitcoin and Time: 2 of 3 https://bitcoinwords.github.io/cy19m1#money-bitcoin-and-time-3-of-3
 1/27 2010 - Largest numeric value ever traded for bitcoins thus far occurred on this date. Three currency bills from Zimbabwe, known as Zimdollars, were traded on #bitcoin-otc at the rate of 4 BTC for each of the one-hundred trillion dollar ($100,000,000,000,000) Zimbabwe notes
      2011 - Silk Road Day: The day that The Silk Road, a Bitcoin marketplace, went live on the dark web. A proof of concept for Bitcoin's independence, censorship resistance, and pseudonymity."
 1/28 2010 - "I very much wanted to find some way to include a short message, but the problem is, the whole world would be able to see the message.  As much as you may keep reminding people that the message is completely non-private, it would be an accident waiting to happen.""
@@ -53,6 +64,7 @@ QR   2020 - Parker Lewis - Bitcoin Obsoletes All Other Money https://archive.is/
      2016 - Bitcoin Core releases statement called ""Clarifying Communications"" and shares contact and participation information with links to #bitcoin-core-dev IRC channel on Freenode, GitHub https://github.com/bitcoin/bitcoin and the the bitcoin-dev mailing list < http://lists.linuxfoundation.org/pipermail/bitcoin-dev/"
 QR   2013 - Gregory Maxwell - I taint rich! https://archive.is/og7qQ
 1/29	
+QR   2019 - Yassine Elmandjra & Arjun Balaji - A Conflict of Crypto Visions https://bitcoinwords.github.io/cy19m1#a-conflict-of-crypto-visions
 1/30
 QR   2018 - Beautyon - Bitcoin Surveillance: An Ahistoric Market Error https://bitcoinwords.github.io/cy18m1#bitcoin-surveillance-an-ahistoric-market-error
 QR   2021 - Shinobi - Why Bitcoin Works: For the New People https://archive.is/FBEZu
