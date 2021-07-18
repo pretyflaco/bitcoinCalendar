@@ -9,6 +9,7 @@ QR  2019 - Gigi - Bitcoin's Gravity https://archive.is/H9QlN
     2019 - Bitcoin Core release 0.18.0.
     2013 - Coinlab files a lawsuit against MtGox, alleging multiple counts of breach of contract that resulted in US$75 million in damages.
 QR  2018 - Aaron van Wirdum - The Future of Bitcoin: What Lightning Could Look Like https://bitcoinwords.github.io/cy18m5#the-future-of-bitcoin-what-lightning-could-look-like
+QR  2019 - Rayne Steinberg - Bitcoin - The Unseizable Asset https://bitcoinwords.github.io/cy19m5#bitcoin---the-unseizable-asset
 5/3 2017 - Tonal Bitcoin reached parity with the US dollar, touching $1 per TBC for the first time
 QR  2021 - Jonathan Bier - The Blocksize War – Chapter 7 – Bitcoin Classic https://archive.is/D0BGS
 5/4	
@@ -16,22 +17,31 @@ QR  2021 - Jonathan Bier - The Blocksize War – Chapter 7 – Bitcoin Classic h
 QR  2021 - Nic Carter How much Energy does Bitcoin Actually Consume https://archive.is/Arg0V	
 5/6	
 5/7	
+QR  2019 - Pierre Rochard - Why learn to program with Bitcoin's Lightning network? https://bitcoinwords.github.io/cy19m5#why-learn-to-program-with-bitcoins-lightning-network
+QR  2019 - Jimmy Song - Why Blockchain is Not the Answer https://bitcoinwords.github.io/cy19m5#why-blockchain-is-not-the-answer
 5/8 2012 - A single service, Satoshi Dice, becomes responsible for over half the transaction volume on the Bitcoin blockchain.
 QR  2019 - Conner Brown - Bitcoin Has No Intrinsic Value — and That’s Great https://archive.is/ORygI
+QR  2019 - Tamás Blummer - How to bribe miners to re-org? https://bitcoinwords.github.io/cy19m5#how-to-bribe-miners-to-re-org
 5/9 2011 - First physical bitcoins called bitbills - A Bitbill is a plastic card that holds the cryptographic key that will allow the face value amount of the card to be spent.
     2012 - An FBI report entitled ""Bitcoin Virtual Currency: Unique Features Present Distinct Challenges for Deterring Illicit Activity"" is leaked. The report was published on April 24, 2012 in order to bring attention to concerns that Bitcoin payment methods could facilitate illegal transactions for weapons and narcotics.
     2015 - Samourai Wallet inception with Reddit post that announces enforcement of BIP 39 passphrase when a wallet is created. It claims to be forged to keep transactions private, user identity masked, and funds secure."
+QR  2019 - Eric Olszewski - No, You Can't Just 'Rollback Bitcoin' https://bitcoinwords.github.io/cy19m5#no-you-cant-just-rollback-bitcoin
+QR  2019 - Nic Carter - A modest proposal regarding Bitcoin mining https://bitcoinwords.github.io/cy19m5#a-modest-proposal-regarding-bitcoin-mining
 5/10	
 QR   2021 - Jonathan Bier - The Blocksize War – Chapter 8 – Hong Kong Roundtable https://archive.is/IMHSm
 5/11 2012 - Bitcoin exchange, Bitcoinica, is taken down following after hack results in a loss of over 18,000 Bitcoins, valued at approximately US$90,000.
      2020 - Third halving cuts block subsidy from 12.5 to 6.25. Final block of third epoch is mined by f2pool and contains the message: ""NYTimes 09/Apr/2020 With $2.3T Injection, Fed's Plan Far Exceeds 2008 Rescue"" "
+QR   2019 - Sourabh - Differentiating Against Bitcoin https://bitcoinwords.github.io/cy19m5#differentiating-against-bitcoin
+QR   2019 - Peter Wuille, Greg Maxwell and Fernando Nieto - 51% Attack - apparently very easy? https://bitcoinwords.github.io/cy19m5#51-attack---apparently-very-easy-refering-to-czs-rollback-btc-chain
 5/12 2011 - First room for rent for Bitcoin
 QR   2021 - Alex Gladstein - Check your financial privilege https://archive.is/ikMmx
 5/13	
 5/14
+QR   2018 - Jimmy Song - Why Blockchain is Hard https://archive.is/rAp62
+QR   2019 - Roy Sheinfeld - Lightning at the End of the Tunnel https://bitcoinwords.github.io/cy19m5#lightning-at-the-end-of-the-tunnel
+QR   2019 - Deniz Özgür - Cryptocurrencies & Their Effects on Monetary Policy https://bitcoinwords.github.io/cy19m5#cryptocurrencies--their-effects-on-monetary-policy
 OR   2021 - Lyn Alden Analyzing Bitcoin's Network Effect https://archive.is/vNj4h
 QR   2021 - Aaron Segal - Bitcoin Information Theory: B.I.T. https://archive.is/jyhrp
-QR   2018 - Jimmy Song - Why Blockchain is Hard https://archive.is/rAp62
 5/15 2017 - First Release of Joinmarket by Adam Gibson, a CoinJoin implementation aimed at improving the privacy and fungibility of bitcoin transactions.
 QR   2019 - Dan Held - Bitcoin's Security Is Fine https://archive.is/cyfHR
 QR   2019 - Stephan Livera - Intro to Bitcoin Austrian Thought https://archive.is/lDZae
@@ -43,15 +53,21 @@ QR   2021 - Jonathan Bier - The Blocksize War – Chapter 9 – Faketoshi https:
      2011 - Patrick Strateman (phantomcircuit) makes first commits to Libbitcoin, a set of cross platform, open source C++ libraries for building bitcoin applications. The toolkit consists of libraries, examples, tests and applications. The project was established on three principles[1]: Privacy: Bitcoin should always remain as private as possible for its users. Scalability: Bitcoin built today with the future in mind. Integrity: No individual or group should have enough power over the network to compromise its original aims.
      2012 - First Bitcoin class in a public school. It was a 4th grade class in Las Vegas
      2015 - Evolution darknet marketplace goes down, citing technical difficulties. The shut down was soon discovered to be an exit scam, with the operators of the site shutting down abruptly in order to steal the approximately $12 million in bitcoins it was holding as escrow"
+QR   2019 - Merwande Draï - Bitcoin is the worst enemy of communism and dictatorship https://bitcoinwords.github.io/cy19m5#bitcoin-is-the-worst-enemy-of-communism-and-dictatorship
 5/19 2011 - Amir Taaki submits first Bitcoin Improvement Proposal BIP0001 which describes what a BIP is
+QE   2019 - Prateek Goorha - Five Fundamental Effects in Bitcoin https://bitcoinwords.github.io/cy19m5#five-fundamental-effects-in-bitcoin
 QR   2020   Nic Carter - The Last Word on Bitcoin’s Energy Consumption https://archive.is/VquJD
 5/20	
 QR   2018 - Spencer Bogart - The Internet's Magna Carta Moment: Bitcoin & The Value of Strong Assurances https://bitcoinwords.github.io/cy18m5#the-internets-magna-carta-moment-bitcoin--the-value-of-strong-assurances
 5/21	
 QR   2018 - Dmitry Kalichkin - Rethinking Metcalfe's Law applications to cryptoasset valuation https://bitcoinwords.github.io/cy18m5#rethinking-metcalfes-law-applications-to-cryptoasset-valuation
+QR   2019 - Permabull Nino - Bitcoin: an Accounting Revolution https://bitcoinwords.github.io/cy19m5#bitcoin-an-accounting-revolution
 5/22 2010 - Pizza Day - The first, real-world transaction using Bitcoins takes place when a Jacksonville, Florida programmer, Laszlo Hanyecz, offers to pay 10,000 Bitcoins for a pizza on the Bitcoin Forum. At the time, the exchange rate put the purchase price for the pizza at around US$25.
+QR   2019 - Crypto Voices - 2019 Q1 Global Monetary Base https://bitcoinwords.github.io/cy19m5#crypto-voices-2019-q1-global-monetary-base
 5/23 2010 - "The price of .com registrations is lower than it should be, therefore any good name you might think of is always already taken by some domain name speculator.  Fortunately, it's standard for open source projects to be .org.""
-										2017 - NY Disagreement Day - The "New York Agreement" was reached on this day in 2017 that began the fork wars in earnest with the initiation of the SegWit2X proposal.
+     2017 - NY Disagreement Day - The "New York Agreement" was reached on this day in 2017 that began the fork wars in earnest with the initiation of the SegWit2X proposal.
+QR   2019 - Alex Gladstein - Bitcoin could change the game for foreign aid https://bitcoinwords.github.io/cy19m5#bitcoin-could-change-the-game-for-foreign-aid
+QR   2019 - Douglas French - The World Is Growing Tired of Government-Controlled Fiat Currencies https://bitcoinwords.github.io/cy19m5#the-world-is-growing-tired-of-government-controlled-fiat-currencies
 5/24 2003 - Whirlpool Hashing Function published by Paulo S.L.M. Barreto and Vincent Rijmen which describes Whirlpool, a one-way, collision resistant 512-bithashing function operating on messages less than 2^256 bits in length.
 QR   2021 - Jonathan Bier - The Blocksize War – Chapter 10 – The DAO https://archive.is/fAbyW
 5/25	
@@ -62,8 +78,11 @@ QR   2011 - Gwern - Bitcoin is Worse is Better https://archive.is/TKTkQ
 QR   2018 - JW Weatherman - Bitcoin Threat Model https://archive.is/xzIXb
 5/28
 QR   2004 - Nick Szabo - Unforgeable Costliness https://archive.li/kYpjA
+QR   2019 - Tony Sheng - Satoshi's vision for bitcoin as told by its predecessors https://bitcoinwords.github.io/cy19m5#satoshis-vision-for-bitcoin-as-told-by-its-predecessors
+QR   2019 - Taylor Pearson - How Fiat Could Fall and Bitcoin Could Soar https://bitcoinwords.github.io/cy19m5#how-fiat-could-fall-and-bitcoin-could-soar
 5/29
 QR   2018 - Dhruv Bansal - The Geology of Lost Coins https://bitcoinwords.github.io/bitcoin-data-science-the-geology-of-lost-coins-part-2#bitcoin-data-science-pt-2-the-geology-of-lost-coins
+QR   2019 - Richard Myers - Decentralizing Bitcoin's Last Mile with Mobile Mesh Networks https://bitcoinwords.github.io/cy19m5#decentralizing-bitcoins-last-mile-with-mobile-mesh-networks
 5/30
 QR   2018 - Murad Mahmudov and Adam Taché - Bitcoin: Past and Future https://archive.is/jEdSw
 5/31	
