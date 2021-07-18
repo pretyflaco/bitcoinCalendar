@@ -5,6 +5,7 @@ QR  2018 - StopAndDecrypt - Bitcoin Miners Beware: Invalid Blocks Need Not Apply
 6/3 2011 - Tonal Bitcoin reaches parity with the US cent for the first time, touching US$0.01 per TBC at Bitcoin Market
     2012 - Block 181919, with 1322 transactions, is the largest block to-date.
     2020 - With block 632874 the expected cumulative work in the Bitcoin blockchain surpassed 2^92 double-SHA256 hashes (with a standard deviation around 1.4*2^83). "	
+QR  2019 - Jack Purdy - Satoshi's Rebuttal of Modern Monetary Theory https://bitcoinwords.github.io/cy19m6#satoshis-rebuttal-of-modern-monetary-theory
 6/4 2011 - First real estate offered for Bitcoin. A beach condo and a house were offered within hours of each other.
     2011 - Bitcoin Market discontinues PayPal trading due to fraud."	
 QR  2011 - Astrohacker - Bitcoin is Economic Singularity https://archive.is/dGf3b
@@ -25,6 +26,7 @@ QR  2018 - Pierre Rochard - Bitcoin Investment Theses Part 1 https://bitcoinword
 QR   2018 - Gigi - Bitcoin's Energy Consumption https://web.archive.org/web/20210402204449/https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/
 QR   2020 - Human Rights Foundation Funds Bitcoin Privacy https://bitcoinaudible.com/?p=4314
 6/11		
+QR   2019 - Erik Cason - The Political Theology of Crypto https://bitcoinwords.github.io/cy19m6#the-political-theology-of-crypto
 6/12 2011 - The Great Bitcoin Bubble of 2011: In the largest percentage price decrease to-date, the MtGox Bitcon exchange rate plummeted to nearly US$10, just four days after its peak at US$31.91. 	
 6/13 2011 - Bitcoin Forum member, allinvain, claimed to have had 25,000 BTC stolen from his Bitcoin wallet. At the time, the exchange rate put the amount close to US$375,000.	
 QR   2021 - Gigi - Bitcoin is an Idea https://archive.is/fHmYS
@@ -38,20 +40,27 @@ QR   2020 - Gigi - The Bitcoin Journey https://archive.is/Qu8rl
 6/16		
 6/17 2010 - "The nature of Bitcoin is such that once version 0.1 was released, the core design was set in stone for the rest of its lifetime.  Because of that, I wanted to design it to support every possible transaction type I could think of.  The problem was, each thing required special support code and data fields whether it was used or not, and only covered one special case at a time.  It would have been an explosion of special cases.  The solution was script, which generalizes the problem so transacting parties can describe their transaction as a predicate that the node network evaluates.  The nodes only need to understand the transaction to the extent of evaluating whether the sender's conditions are met."
      2010 - "The design supports a tremendous variety of possible transaction types that I designed years ago.  Escrow transactions, bonded contracts, third party arbitration, multi-party signature, etc.  If Bitcoin catches on in a big way, these are things we'll want to explore in the future, but they all had to be designed at the beginning to make sure they would be possible later."
+QR   2019 - Philip Swift - The Golden Ratio Multiplier https://bitcoinwords.github.io/cy19m6#the-golden-ratio-multiplier
 6/18 2010 - "Excellent choice of a first project, nice work.  I had planned to do this exact thing if someone else didn't do it, so when it gets too hard for mortals to generate 50BTC, new users could get some coins to play with right away.  Donations should be able to keep it filled.  The display showing the balance in the dispenser encourages people to top it up. You should put a donation bitcoin address on the page for those who want to add funds to it, which ideally should update to a new address whenever it receives something."
      2010 - "Since 2007.  At some point I became convinced there was a way to do this without any trust required at all and couldn't resist to keep thinking about it.  Much more of the work was designing than coding. Fortunately, so far all the issues raised have been things I previously considered and planned for."
 QR   2019 - Tamas Blummer - There Can Be Only One https://archive.is/Gg9na
 6/19 2011 - MtGox suffers a significant breach of security that results in fraudulent trading and requires the site to be shut down for seven days. The breach compromises the MtGox database with a leak of the user table that contains user names, email addresses, and password hashes of 60,000 accounts. An admin account was accessed from which sell orders were issued for hundreds of thousands of Bitcoins, which forced the MtGox price down to US$17.51 to US$0.01 per Bitcoin. 
      2011 - In order to prove that MtGox still had control of the coins, the move of 424,242 bitcoins from ""cold storage"" to a MtGox address was announced beforehand and executed in Block 132749. It was later revealed that the coins may have never been in cold storage, as the proof-of-solvency transaction was broadcast through a remote Linux desktop and a single hot wallet. 
      2011 - Trading halts at TradeHill and Britcoin while security measures are reviewed. Users that were registered at MyBitcoin with the same username as on MtGox had their passwords hacked and balances stolen from around 600 MyBitcoin accounts, with one user losing more than 2,000 BTC."	
+QR   2019 - Nic Carter - Bitcoin bites the bullet https://bitcoinwords.github.io/cy19m6#bitcoin-bites-the-bullet
 6/20 2011 - The Electronic Frontier Foundation (EFF) discontinues the acceptance of donations in the form of Bitcoins for reasons of legal uncertainties.	
+QR   2019 - Brandon Quittem - Bitcoin is the Antivirus (Mushroom Medicine) https://bitcoinwords.github.io/cy19m6#bitcoin-is-the-antivirus-mushroom-medicinepart-34
+QR   2019 - David Puell & Reginald Smith - Bitcoin Average Dormancy https://bitcoinwords.github.io/cy19m6#bitcoin-average-dormancy
+QR   2019 - Robert Breedlove - The Bitcoin Common Tongue https://bitcoinwords.github.io/cy19m6#tweetstorm-the-bitcoin-common-tongue
 6/21 2010 - "Lost coins only make everyone else's coins worth slightly more.  Think of it as a donation to everyone."
      2016 - CSV softfork - Important upgrade instructions for miners
 QR   2021 - Jonathan Bier - The Blocksize War – Chapter 14 – ASICBoost https://archive.is/YCDMA
 6/22		
+QR   2019 - Allen Farrington - Money, Banking, Bitcoin, Libra https://bitcoinwords.github.io/cy19m6#money-banking-bitcoin-libra
 6/23		
 6/24 2011 - With Block 133056, the Bitcoin generation difficulty passes 1 million for the first time.	
 QR   2018 - Pierre Rochard - Bitcoin Investment Theses Part 2 https://bitcoinwords.github.io/cy18m6#bitcoin-investment-theses-part-2
+QR   2019 - Erik Cason - The Sovereign, the Subject, and Crypto-power https://bitcoinwords.github.io/cy19m6#the-sovereign-the-subject-and-crypto-power
 6/25		
 6/26		
 6/27
