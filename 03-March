@@ -7,11 +7,14 @@ QR  2018 - Vijay Boyapati - The Bullish Case For Bitcoin https://archive.is/jE0B
 QR  2018 - George Kikvadze - Seven Myths of Bitcoin https://bitcoinwords.github.io/cy18m3#seven-myths-of-bitcoin
 3/3 2017 - Gold Parity Day - 1 bitcoin surpassed the price of 1 oz of gold for the first time
 QR  2018 - Shaan Ray - How blockchains will enable privacy https://bitcoinwords.github.io/cy18m3#how-blockchains-will-enable-privacy
+QR  2019 - Jameson Lopp - Bitcoin Timestamp Security https://bitcoinwords.github.io/cy19m3#bitcoin-timestamp-security
 3/4		
 3/5	
 QR  2018 - Peter McCormack - An Open Letter to Banks about Bitcoin and Cryptocurrencies https://archive.is/JcBR2
 QR  2021 - Knut Svanholm - Bitcoin and the Separation of Money and State https://archive.is/UKdxg
 3/6 2011 - Jed McCaleb sells MtGox to Japan’s Tibanne Company. A new high of nearly 900Ghash/sec total Bitcoin network computation speed is reached, dropping to 500Ghash/sec soon after. It is speculated that the reduction is the result of a supercomputer or bot-net joining the network.	
+QR  2019 - Ryan Radloff - Bitcoin Has a Branding Problem - It's Evolution, Not Revolution https://bitcoinwords.github.io/cy19m3#bitcoin-has-a-branding-problemits-evolution-not-revolution
+QR  2019 - Su Zhu & Hasu - Skeptic's Guide to Bitcoin: Investing in Bitcoin https://bitcoinwords.github.io/cy19m3#skeptics-guide-to-bitcoin-investing-in-bitcoin
 3/7 2011 - As per https://bitcointalk.org/index.php?topic=149958.0 First release of the Schildbach Bitcoin Wallet for Android, the very first mobile wallet. Its ongoing development was motivated simply because Andreas (also known for popular Android apps like Öffi) found it too cumbersome to use his laptop to pay for burgers and beer in room77. This was the first time it was possible to pay with a phone at all, so it sparked a first wave of Bitcoin technology hipness.
     2012 - First transaction including a P2SH-compatible address.
     2014 - "I am not Dorian Nakamoto."
@@ -25,13 +28,17 @@ QR  1993 - Eric Hughes - A Cypherpunk's Manifesto https://archive.is/Cr7LH
 3/10		
 3/11 2013 - A significant glitch that involves two different versions of the Bitcoin software forces a halt in transactions that results in a sharp sell-off and a 23 percent drop in value to US$37. Later that evening, the exchange rate recovered much of its value.	
 QR   2017 - Jameson Lopp - Nobody Understands Bitcoin (And That’s OK) https://archive.is/hCMlb
+QR   2019 - Nik Bhatia - The Lightning Network Reference Rate https://bitcoinwords.github.io/cy19m3#the-lightning-network-reference-rate
 3/12 2013 - 24 Block Rollback - A hard fork occurs in the Blockchain: After a bug was exposed between versions 0.7 and 0.8 of the Bitcoin reference client, a fast response from the developers, community, miners, and services orchestrated a rollback of 24 blocks, preventing a split in the Bitcoin network. A previously undiscovered protocol rule results in a hard fork of the 0.8.0 reference client.	
 3/13
+QR   2019 - Lucas Nuzzi - Schnorr Signatures & The Invevitability of Privacy in Bitcoin https://bitcoinwords.github.io/cy19m3#schnorr-signatures--the-inevitability-of-privacy-in-bitcoin
 QR   2021 - Gigi - The Responsibility of Adopting Bitcoin https://archive.is/P62yO
 3/14
 QR   2017 - Beautyon - Bitcoin is. And that is enough. https://archive.is/iU7Tu
 3/15 2016 - Bitcoin Core starts providing opt-in, announcement-only information for users of Bitcoin Core to receive notifications of security issues and new releases	
 QR   2018 - Beautyon - Why America Can’t Regulate Bitcoin https://archive.is/yAOwZ
+QR   2019 - Genesis Node - Could Bitcoin fix the stagnant political and economic landscape? https://bitcoinwords.github.io/cy19m3#could-bitcoin-fix-the-stagnant-political-and-economic-landscape
+QR   2019 - Aleks Svetski - Why Bitcoin Matters https://bitcoinwords.github.io/cy19m3#why-bitcoin-matters
 3/16		
 QR   2018 - Tobias Huber - Are Bitcoin Bubbles Predictable? https://bitcoinwords.github.io/cy18m3#are-bitcoin-bubbles-predictable
 QR   2019 - Tamas Blummer - Measuring Time with Chain of Blocks https://archive.is/Uun3e
@@ -48,6 +55,7 @@ QR   2014 - Pete Dushenski - There is no Bitcoin 2.0 https://archive.is/bQSZq
 QR   2018 - Beautyon - Maduro's Mint of King Cnut https://bitcoinwords.github.io/cy18m3#maduros-mint-of-king-cnut
 3/20 2011 - Biggest so far difficulty decrease of nearly 10%. A decrease has only occurred once before, and this decrease of nearly 10% is the largest	
 QR   2018 - Steven Hay - How to kill Bitcoin https://archive.is/QloT9
+QR   2019 - Kay Kurokawa - Bitcoin Is a Cult, Fiat Is a Religion https://bitcoinwords.github.io/cy19m3#bitcoin-is-a-cult-fiat-is-a-religion
 QR   2020 - Giacomo Zucco - Dont be Misled by Red Herrings – Treatise on Bitcoin & Privacy Part 2 https://bitcoinaudible.com/?p=3903
 QR   2020 - Gigi - Dear Legacy People https://archive.is/pO81i
 3/21 
@@ -56,7 +64,9 @@ QR   2020 - Gigi - Dear Legacy People https://archive.is/pO81i
      2013 - The value of Bitcoin spikes after two days of increasing nearly 70 percent, reaching a high of US$74.90.	
 QR   1998 - Nick Szabo shares "bit gold" in a series of posts on libtech mailing list, describing a mechanism for a decentralized digital currency he called "bit gold". Bit gold was never implemented, but has been called "a direct precursor to the Bitcoin architecture. https://archive.is/MeEra
 3/22 2013 - The trade value of a Bitcoin reaches US$30 for the first time since 2011.
-QR   2019 - Plan B - Modeling Bitcoin Value with Scarcity https://archive.is/FiPZL The medium user PlanB publishes a well received article attempting to describe the historic evolution of the Bitcoin price using the Stock-to-Flow macroeconomic model.
+QR   2019 - Plan B - Modeling Bitcoin Value with Scarcity https://archive.is/FiPZL 
+QR   2019 - JP Thor - Bitcoin's True Market Dominance https://bitcoinwords.github.io/cy19m3#bitcoins-true-market-dominance
+QR   2019 - ElSeidy - On Bitcoin's Academic Lineage https://bitcoinwords.github.io/cy19m3#on-bitcoins-academic-lineage
 QR   2021 - Jonathan Bier - The Blocksize War – Chapter 1 – First Strike https://archive.is/y9c56
 3/23 
 
@@ -78,5 +88,6 @@ QR   2020 - Erik Cason - The Political Theology of Bitcoin https://archive.is/Um
 QR   2021 - Jonathan Bier - The Blocksize War – Chapter 2 – March To War https://archive.is/tNqe0
 3/30	
 QR   2018 - Beautyon_ - Bitcoin Doesn't Waste Electricity https://archive.is/3IpA4
+QR   2019 - Nicolas Dorier - The Ethics of Money and Bitcoin https://bitcoinwords.github.io/cy19m3#the-ethics-of-money-and-bitcoin
 3/31 2011 - The first market for exchanging Bitcoins to and from Brazilian Reals, Bitcoin Brazil, opens.
 QR   2020 - Gigi - Dear Bitcoiners https://archive.is/d28Pj
