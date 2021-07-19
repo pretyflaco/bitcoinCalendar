@@ -1,13 +1,17 @@
 1/1
 QR  2019 - Jill Carlson - Cryptocurrency: The Canary in the Coal Mine https://bitcoinwords.github.io/cy19m1#cryptocurrency-the-canary-in-the-coal-mine
+QR  2020 - 6102 - Slice The Pie https://bitcoinwords.github.io/cy20m1#slice-the-pie
 1/2 2011 - Tonal Bitcoin, designed for those who prefer the Tonal number system, standardizes its units.
 QR  2019 - Vijay Boyapati - Bitcoin's 10 Year Anniversary https://bitcoinwords.github.io/cy19m1#tweetstorm-bitcoins-10-year-anniversary
 QR  2021 - Ioni Appelberg - Bitcoin's price curve will not be S-shaped https://www.youtube.com/watch?v=7vl_ziH6OJo
 1/3 2009 - Genesis Block is mined by Satoshi Nakamoto. The block contains a message: "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"
 QR  2019 - Hugo Nguyen - Bitcoin: Two Parts Math, One Part Biology https://archive.is/yLlHr 
 1/4	
+QR  2020 - Nic Carter - An Introduction to the Efficient Market Hyptothesis for Bitcoiners https://bitcoinwords.github.io/cy20m1#an-introduction-to-the-efficient-market-hypothesis-for-bitcoiners
+QR  2020 - Elaine Ou - How to Resist Censorship with Bitcoin https://bitcoinwords.github.io/cy20m1#how-to-resist-censorship-with-bitcoin
 1/5 1982 - Ralph Merkle is granted a patent for the invention of "Merkle Tree"
 QR  2020 - Erik Cason - The Oath of Machines, Liturgy of Code, and Promise of Bitcoin https://archive.is/pOTxo
+QR  2020 - Rollo McFloogle - Dear Libertarians: Bitcoin Fixes This https://bitcoinwords.github.io/cy20m1#dear-libertarians-bitcoin-fixes-this
 1/6 2011 - Guy pays random guy for work performed (holding a sign on a busy intersection) - in blog post titled "The Power of Bitcoins" he writes: "These photos prove that people will do anything for bitcoins! There is a Bitcoin Rush! I paid a guy 32 bitcoins to dress up in a crazy outfit and hold a sign for me in a busy interestion."
 QR  2019 - Dan Held - Planting Bitcoin: Species https://bitcoinwords.github.io/cy19m1#planting-bitcoin--species-14
 QR  2019 - Dan Held - Planting Bitcoin: Season https://bitcoinwords.github.io/cy19m1#planting-bitcoin---season-24
@@ -19,6 +23,8 @@ QR  2019 - Misir Mahmudov & Yassin Elmandjra - Bitcoin: Winner Takes Most or Win
 1/8 2011 - History of Bitcoin page created after replicating from original Bitcoin History page on Bitcoin.org
     2011 - Bitcoin Pooled Mining reached a total of 10,000 Mhash/s.
     2017 - Lightning Pay Day The first real purchase over the Lightning Network was sent on this day in 2018 for a TorGuard VPN subscription."
+QR  2020 - Pascal Hügli - Bitcoin and the Primacy of the Digital World https://bitcoinwords.github.io/cy20m1#bitcoin-and-the-primacy-of-the-digital-world
+QR  2020 - Acrual - Valuing BTC as a commodity https://bitcoinwords.github.io/cy20m1#valuing-btc-as-a-commodity
 1/9 2009 - "Announcing the first release of Bitcoin, a new electronic cash system that uses a peer-to-peer network to prevent double-spending. It's completely decentralized with no server or central authority.""
     2009 - "If you can keep a node running that accepts incoming connections, you'll really be helping the network a lot. Port 8333 on your firewall needs to be open to receive incoming connections.""
     2009 - "You can get coins by getting someone to send you some, or turn on Options->Generate Coins to run a node and generate blocks. I made the proof-of-work difficulty ridiculously easy to start with, so for a little while in the beginning a typical PC will be able to generate coins in just a few hours. It'll get a lot harder when competition makes the automatic adjustment drive up the difficulty. Generated coins must wait 120 blocks to mature before they can be spent.""
@@ -30,25 +36,32 @@ QR   2005 - David D. Friedman - The Case for Privacy https://archive.is/9I7SW
 1/11 2009 - Hal Finney tweets "Running Bitcoin"
 QR   2019 - Gigi - Economic Teachings of Bitcoin https://archive.is/63eOO
 1/12 2009 - Genesis Transaction Day The first transaction ever broadcast over the Bitcoin network is send by Satoshi Nakamoto to Hal Finney in block 170. This is the only transaction known to have been sent by the creator of Bitcoin.
+QR   2020 - Acrual - Bitcoin has already succeeded https://bitcoinwords.github.io/cy20m1#bitcoin-has-already-succeeded
 1/13
 QR   2018 - Elaine Ou - My Plan for Hyperbitcoinization https://bitcoinwords.github.io/cy18m1#my-plan-for-hyperbitcoinization
 QR   2019 - Nic Carter - Unpacking Bitcoin's Assurances https://bitcoinwords.github.io/cy19m1#unpacking-bitcoins-assurances
+QR   2020 - Rhythm - Bitcoin Is Magic Internet Money https://bitcoinwords.github.io/cy20m1#bitcoin-is-magic-internet-money
 1/14 2014 - Evolution Marketplace launched and saw rapid growth within its first several months, helped in part by law enforcement seizures of some of its competitors during the six-month-long investigation codenamed Operation Onymous
      2016 - Lightning Whitepaper Day Official release of the Lightning Network Whitepaper by Joseph Poon and Thaddeus Dryja."
 QR   2021 - Gigi - Bitcoin is Time https://archive.is/Rn0XD
 1/15	
+QR   2020 - Conner Brown - Bitcoin: The Blockchain for Truly Smart Contracts https://bitcoinwords.github.io/cy20m1#bitcoin-the-blockchain-for-truly-smart-contracts
 1/16	
 1/17 2009 - "I would be surprised if 10 years from now we're not using electronic currency in some way, now that we know a way to do it that won't inevitably get dumbed down when the trusted third party gets cold feet.""
      2009 - "It can already be used for pay-to-send e-mail. The send dialog is resizeable and you can enter as long of a message as you like. It's sent directly when it connects. The recipient doubleclicks on the transaction to see the full message. If someone famous is getting more e-mail than they can read, but would still like to have a way for fans to contact them, they could set up Bitcoin and give out the IP address on their website. ""Send X bitcoins to my priority hotline at this IP and I'll read the message personally.""
      2009 - "Subscription sites that need some extra proof-of-work for their free trial so it doesn't cannibalize subscriptions could charge bitcoins for the trial.""
      2009 - "It might make sense just to get some in case it catches on. If enough people think the same way, that becomes a self fulfilling prophecy. Once it gets bootstrapped, there are so many applications if you could effortlessly pay a few cents to a website as easily as dropping coins in a vending machine."""
+QR   2020 - PlanB - Efficient Market Hypothesis and Bitcoin Stock-to-Flow Model https://bitcoinwords.github.io/cy20m1#efficient-market-hypothesis-and-bitcoin-stock-to-flow-model
 1/18	
+QR   2020 - 6102 - Bitcoin Backups https://bitcoinwords.github.io/cy20m1#bitcoin-backups
 1/19
 QR   2018 - Dhruv Bansal - Stop comparing Bitcoin to the Internet https://bitcoinwords.github.io/cy18m1#stop-comparing-bitcoin-to-the-internet
 1/20	
 QR   2019 - Robert Breedlove - Money, Bitcoin and Time: 1 of 3 https://bitcoinwords.github.io/cy19m1#money-bitcoin-and-time-1-of-3
 1/21 2016 - Launch of Segregated Witness Testnet. This development began with a research effort by Bitcoin Core developer, Dr. Pieter Wuille, initially focused on addressing transaction malleability, a longstanding and well-known concern and priority. However, in the process of this research, and in the narrowing toward a solution, additional properties of the solution were discovered that allow for increasing the block size while also simultaneously opening up some incredibly exciting secondary benefits. This effort was initiated by Dr. Pieter Wuille, but included contributions from many others, with particular thanks to Eric Lombrozo, Johnson Lau, Alex Morcos, Nicolas Dorier, Bryan Bishop, Gregory Maxwell, Peter Todd, Cory Fields, Suhas Daftuar, and Luke-Jr. Popular wallets and supporting libraries have stated they will support Segwit including Ledger, Trezor, Electrum, and Bitgo.
+QR   2020 - Stephan Livera - What Crypto "Token Velocity Theorists" Can Learn From Austrian Economics https://bitcoinwords.github.io/cy20m1#what-crypto-token-velocity-theorists-can-learn-from-austrian-economics
 1/22 2013 - BitPay, a Bitcoin payment processing company, announces that it has surpassed 10,000 Bitcoin transactions for its merchants, with no cases of payment fraud reported.
+QR   2020 - Acrual - Bitcoin is perfectly suited for value time travel https://bitcoinwords.github.io/cy20m1#bitcoin-is-perfectly-suited-for-value-time-travel
 1/23
 QR   2019 - Gregory Trubetskoy - Blockchain Proof-of-Work Is a Decentralized Clock https://archive.is/8p66i
 1/24
@@ -57,12 +70,14 @@ QR   2020 - Parker Lewis - Bitcoin Obsoletes All Other Money https://archive.is/
 1/26 2016 - A detailed explanation of SegWit Benefits is published on the Bitcoin Core Blog
 QR   2019 - Robert Breedlove - Money, Bitcoin and Time: 2 of 3 https://bitcoinwords.github.io/cy19m1#money-bitcoin-and-time-2-of-3
 QR   2019 - Robert Breedlove - Money, Bitcoin and Time: 2 of 3 https://bitcoinwords.github.io/cy19m1#money-bitcoin-and-time-3-of-3
+QR   2020 - FF2K - Bitcoin is good for your government's treasury https://bitcoinwords.github.io/cy20m1#bitcoin-is-good-for-your-governments-treasury
 1/27 2010 - Largest numeric value ever traded for bitcoins thus far occurred on this date. Three currency bills from Zimbabwe, known as Zimdollars, were traded on #bitcoin-otc at the rate of 4 BTC for each of the one-hundred trillion dollar ($100,000,000,000,000) Zimbabwe notes
      2011 - Silk Road Day: The day that The Silk Road, a Bitcoin marketplace, went live on the dark web. A proof of concept for Bitcoin's independence, censorship resistance, and pseudonymity."
 1/28 2010 - "I very much wanted to find some way to include a short message, but the problem is, the whole world would be able to see the message.  As much as you may keep reminding people that the message is completely non-private, it would be an accident waiting to happen.""
      2011 - With the generation of Block 105000, 5.25 million Bitcoins have been generated, totalling more than 25 percent of the projected total of almost 21 million Bitcoins. 
      2016 - Bitcoin Core releases statement called ""Clarifying Communications"" and shares contact and participation information with links to #bitcoin-core-dev IRC channel on Freenode, GitHub https://github.com/bitcoin/bitcoin and the the bitcoin-dev mailing list < http://lists.linuxfoundation.org/pipermail/bitcoin-dev/"
 QR   2013 - Gregory Maxwell - I taint rich! https://archive.is/og7qQ
+QR   2020 - Conner Brown - How Not To Critique Bitcoin https://bitcoinwords.github.io/cy20m1#how-not-to-critique-bitcoin
 1/29	
 QR   2019 - Yassine Elmandjra & Arjun Balaji - A Conflict of Crypto Visions https://bitcoinwords.github.io/cy19m1#a-conflict-of-crypto-visions
 1/30
