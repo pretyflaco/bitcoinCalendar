@@ -1,5 +1,6 @@
 8/1 2017 - Bitcoin Independence Day The official end of the Blocksize Wars. 2020 - Bitcoin core release 0.20.1	
 QR  2018 - Hass McCook - The Cost & Sustainability of Bitcoin https://bitcoinwords.github.io/cy18m8#the-cost--sustainability-of-bitcoin
+QR  2019 - Stadicus - We need Bitcoin full nodes. Economic ones. https://bitcoinwords.github.io/cy19m8#we-need-bitcoin-full-nodes-economic-ones
 8/2		
 QR  2019 - Parker Lewis - Bitcoin Can’t Be Copied https://archive.is/pSqtA
 8/3		
@@ -16,12 +17,14 @@ QR  2019 - Gigi - Proof of Life Why Bitcoin is a Living Organism https://archive
 QR  2019 - CryptoDantes and Jameson Lopp on Privacy, Security, and Personal Sovereignty https://archive.is/PewXi
 8/8 2017 - SegWit Lock-in Day Segregated Witness is officially locked in by the UASF client on the Bitcoin network.	
 QR  2018 - Nik Bhatia - https://bitcoinaudible.com/?p=877 
+QR  2019 - Joe Rodgers - Bitcoin Layers https://bitcoinwords.github.io/cy19m8#bitcoin-layers
 8/9 2010 - "The heat from your computer is not wasted if you need to heat your home.  If you're using electric heat where you live, then your computer's heat isn't a waste.  It's equal cost if you generate the heat with your computer. If you have other cheaper heating than electric, then the waste is only the difference in cost. If it's summer and you're using A/C, then it's twice. \nBitcoin generation should end up where it's cheapest.  Maybe that will be in cold climates where there's electric heat, where it would be essentially free."
     2019 - Bitcoin Core release 0.18.1
 QR  2019 - Parker Lewis - Bitcoin Is Not Too Volatile https://archive.is/6Wg0n
 8/10		
 8/11 2010 - Then you must also be against the common system of payment up front, where the customer loses. Payment up front  customer loses, and the thief gets the money. Simple escrow  customer loses, but the thief doesn't get the money either. Are you guys saying payment up front is better, because at least the thief gets the money, so at least someone gets it? Imagine someone stole something from you.  You can't get it back, but if you could, if it had a kill switch that could be remote triggered, would you do it?  Would it be a good thing for thieves to know that everything you own has a kill switch and if they steal it, it'll be useless to them, although you still lose it too?  If they give it back, you can re-activate it. Imagine if gold turned to lead when stolen.  If the thief gives it back, it turns to gold again. It still seems to me the problem may be one of presenting it the right way.  For one thing, not being so blunt about "money burning" for the purposes of game theory discussion.  The money is never truly burned.  You have the option to release it at any time forever."	
 QR   2018 - Nic Carter - Media Coverage of Bitcoin is Still a Total Disaster https://bitcoinwords.github.io/cy18m8#media-coverage-of-bitcoin-is-still-a-total-disaster
+QR   2019 - The Bitcoin Observer - Projection and Throwness https://bitcoinwords.github.io/cy19m8#projection-and-throwness
 8/12
 8/13		
 8/14		
@@ -34,6 +37,7 @@ QR   2018 - Hugo Nguyen - Bitcoin, Stock & Flow https://bitcoinwords.github.io/c
 QR   2019 - Parker Lewis - Bitcoin does not waste energy https://web.archive.org/web/20210402204932/https://unchained-capital.com/blog/bitcoin-does-not-waste-energy/
 8/17		
 QR   2018 - Gigi - The Magic Dust of Cryptography https://archive.is/0NgKE
+QR   2019 - Nick Szabo - Shallow Safety vs. Deep Safety https://bitcoinwords.github.io/cy19m8#tweetstorm-shallow-safety-vs-deep-safety
 8/18 2008 - Bitcoin.org is born! The domain was registered at anonymousspeech.com, a site that allows users to anonymously register domain names and currently accepts Bitcoins.
      2011 - Forum user BCCAP - Paul from www.btccapus.com accounces that he facilitated the purchase and sale of a single family home in Alameda County the value of which was in excess of BTC 45,000
      2017 - "This is lies, my trust in you is broken, I will make you obsolete"" Nicolas Dorier pledges to make Bitpay obsolete"	
@@ -44,6 +48,7 @@ QR   2018 - Qiao Wang & Dan McArdle - The Store of Value Thesis https://bitcoinw
      2012 - Charlie Shrem announces plans to introduce a Bitcoin debit card through BitInstant, a Bitcoin transfer service. "	
 8/21		
 QR   1988 - Tim May - The Crypto Anarchist Manifesto https://archive.is/7lWPj
+QR   2019 - Jesse Lawler - The Bitcoin/Government Battle is Vaporware https://bitcoinwords.github.io/cy19m8#the-bitcoingovernment-battle-is-vaporware
 QR   2020 - Knut Svanholm - Deeper Down the Rabbit Hole https://bitcoinaudible.com/?p=4846
 8/22 2013 - First commissioned bitcoin painting. by Ali Spagnola. An oil painting of the bitcoin logo. A commission of $50 USD was paid to Ali in bitcoin for the painting.	
 QR   2019 - Gigi - The Rise of the Sovereign Individual https://archive.is/Bf4h8
@@ -51,8 +56,10 @@ QR   2019 - Gigi - The Rise of the Sovereign Individual https://archive.is/Bf4h8
      2017 - Activation Day! SegWit activated on Bitcoin mainnet at block height 481,824 at 1:57 UTC. the SegWit soft fork was a success!
 QR   2019 - Parker Lewis - Bitcoin is Not Too Slow https://archive.is/2ogPP
 8/24 2012 - First private medical practice accepts Bitcoin. It's a dentist in Finland.	
+QR   2019 - James O'Beirne - Bitcoin for safety https://bitcoinwords.github.io/cy19m8#bitcoin-for-safety
 8/25		
 QR   2018 - Hugo Nguyen - Bitcoin, Chance and Randomness https://bitcoinwords.github.io/cy18m8#bitcoin-chance-and-randomness
+QR   2019 - Rollo McFloogle - Applying Carl Menger to the Monetization of Bitcoin https://bitcoinwords.github.io/cy19m8#applying-carl-menger-to-the-monetization-of-bitcoin
 8/26
 QR   2019 - Erik Cason - The Theological Conquest of Money https://archive.is/WjD9C
 8/27 2010 - "As a thought experiment, imagine there was a base metal as scarce as gold but with the following properties: boring grey in colour - not a good conductor of electricity - not particularly strong, but not ductile or easily malleable either - not useful for any practical or ornamental purpose and one special, magical property:  can be transported over a communications channel. If it somehow acquired any value at all for whatever reason, then anyone wanting to transfer wealth over a long distance could buy some, transmit it, and have the recipient sell it. Maybe it could get an initial value circularly as you've suggested, by people foreseeing its potential usefulness for exchange.  (I would definitely want some)  Maybe collectors, any random reason could spark it. I think the traditional qualifications for money were written with the assumption that there are so many competing objects in the world that are scarce, an object with the automatic bootstrap of intrinsic value will surely win out over those without intrinsic value.  But if there were nothing in the world with intrinsic value that could be used as money, only scarce but no intrinsic value, I think people would still take up something. (I'm using the word scarce here to only mean limited potential supply)"
