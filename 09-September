@@ -5,10 +5,12 @@
 QR  2018 - Aaron van Wirdum - Bitcoin as a PrivacyCoin https://bitcoinaudible.com/?p=909
 QR  2018 - LaurentMT - The Yin and Yang of Bitcoin https://bitcoinwords.github.io/cy18m9#the-yin-and-yang-of-bitcoin
 9/4		
+QR  2019 - Harold Christopher Burger - Bitcoin's natural long-term power-law corridor of growth https://bitcoinwords.github.io/cy19m9#bitcoins-natural-long-term-power-law-corridor-of-growth
 9/5 1979 - Ralph Merkle files patent for "Merkle Tree" . The invention comprises a method of providing a digital signature for purposes of authentication of a message, which utilizes an authentication tree function of a one-way function of a secret number. The patent expired 20 years later on this date in 1999.	
 9/6 2011 - Mike Caldwell begins minting physical Bitcoins, naming the coins Casacius Coins.	
 QR  2019 - Parker Lewis - Bitcoin, Not Blockchain https://archive.is/G0ECX
 QR  2019 - Anthony Pompliano and Michael Goldstein on Bitcoin and the Cantillon Effect https://archive.is/ykazh
+QR  2019 - Knut Svanholm - Mainstream Media of Exchange https://bitcoinwords.github.io/cy19m9#mainstream-media-of-exchange
 9/7 2010 - "Another option is to reduce the number of free transactions allowed per block before transaction fees are required.  Nodes only take so many KB of free transactions per block before they start requiring at least 0.01 transaction fee. The threshold should probably be lower than it currently is. I don't think the threshold should ever be 0.  We should always allow at least some free transactions."	
 QR  2019 - Nic Carter - A Most Peaceful Revolution https://archive.is/P1r7d
 9/8 2010 - "The threshold can easily be changed in the future.  We can decide to increase it when the time comes.  It's a good idea to keep it lower as a circuit breaker and increase it as needed.  If we hit the threshold now, it would almost certainly be some kind of flood and not actual use.  Keeping the threshold lower would help limit the amount of wasted disk space in that event."
@@ -21,6 +23,8 @@ QR  2018 - LaurentMT - Cliffhangers https://bitcoinwords.github.io/cy18m9#cliffh
 9/11
 QR   2014 - Michael Goldstein - Everyone's a Scammer https://archive.is/SzGvj
 QR   2018 - Paul Sztorc - Expensive Privacy is Useless Privacy https://bitcoinwords.github.io/cy18m9#expensive-privacy-is-useless-privacy
+QR   2019 - Tamás Blummer - Floor on Bitcoin's risk less interest rate https://bitcoinwords.github.io/cy19m9#floor-on-bitcoins-risk-less-interest-rate
+QR   2019 - Erik Cason - The Encrypted Meaning of Crypto https://bitcoinwords.github.io/cy19m9#the-encrypted-meaning-of-crypto
 9/12	
 9/13	
 QR   2019 - Dhruv Bansal - Bitcoin Astronomy https://archive.is/6jumi
@@ -58,6 +62,8 @@ QR   2019 - Giacomo Zucco - Discovering Bitcoin Part 7 – Missing Pieces https:
 9/24 2012 - Phillip Moustakis, a Senior Attorney in the Enforcement Division of the U.S. Securities and Exchange Commission, sends an email that announces an investigation of Bitcoin Savings and Trust after allegations were made that the Ponzi scheme decreased the value of Bitcoins by as much as 30 percent.	
 9/25	
 QR   2018 - Misir Mahmudov - Mass adoption of Bitcoin is inevitable https://bitcoinwords.github.io/cy18m9#tweetstorm-mass-adoption-of-bitcoin-is-inevitable
+QR   2019 - Christopher Bendiksen - A Note on Variance in Bitcoin Mining https://bitcoinwords.github.io/cy19m9#a-note-on-variance-in-bitcoin-mining
+QR   2019 - Roy Sheinfeld - Envisioning LSPs in the Lightning Economy https://bitcoinwords.github.io/cy19m9#envisioning-lsps-in-the-lightning-economy
 9/26 2012 - First Taxi service accepts Bitcoin (in Herefordshire, UK.)	
 9/27 2012 - Bitcoin Foundation Day: The Bitcoin Foundation is formed, implementing a core development team for the protocol and a body to oversee the digital currency. - No one controls Bitcoin, remember that on this day.	
 QR   2019 - Parker Lewis - Bitcoin is Not Backed by Nothing https://archive.is/aW1kh
