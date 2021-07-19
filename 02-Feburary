@@ -10,8 +10,9 @@ QR   2021 - Michael Saylor Interviews NYDIG Chair Ross Stevens on Bitcoin https:
 2/4	
 QR   2013 - Mircea Popescu - Stage n: Bitcoin exists. https://archive.is/jfdnp
 2/5
-QR   2021 - Bitcoin is protecting human rights around the world https://www.youtube.com/watch?v=xLYYh4aPXAM
 QR   2019 - Stephan Livera and Guido Hülsmann on Austrian Monetary Economics & Bitcoin https://stephanlivera.com/episode/51/
+QR   2020 - Acrual - Money is about credibly representing value transactions https://bitcoinwords.github.io/cy20m2#money-is-about-credibly-representing-value-transactions
+QR   2021 - Bitcoin is protecting human rights around the world https://www.youtube.com/watch?v=xLYYh4aPXAM
 2/6  2009 - Bitcoin Market, a bitcoin currency exchange site owned and operated by bitcointalk user dwdollar, is established.
      2010 - "Eventually at most only 21 million coins for 6.8 billion people in the world if it really gets huge. But don't worry, there are another 6 decimal places that aren't shown, for a total of 8 decimal places internally.  It shows 1.00 but internally it's 1.00000000.  If there's massive deflation in the future, the software could show more decimal places."
      2010 - "If it gets tiresome working with small numbers, we could change where the display shows the decimal point. Same amount of money, just different convention for where the "",""'s and "".""'s go. e.g. moving the decimal place 3 places would mean if you had 1.00000 before, now it shows it as 1,000.00."
@@ -20,10 +21,13 @@ QR   2019 - Stephan Livera and Guido Hülsmann on Austrian Monetary Economics & 
 QR   2019 - Jerry Brito - We must protect our ability to transact privately online https://archive.is/kzboL
 2/7	
 2/8	
+QR   2020 - Nic Carter - Lessons from the uneven distribution of capital https://bitcoinwords.github.io/cy20m2#lessons-from-the-uneven-distribution-of-capital
 2/9  2011 - Bitcoin reaches parity with the US dollar for the first time and touches US$1.00/BTC at MtGox. This event prompts several IT journals (Slashdot, Hacker News) to report about Bitcoin.
 QR   2017 - Nick Szabo - Money, blockchains, and social scalability https://archive.is/454kk
 QR   2019 - David Nage - Demystifying Blockchain not Bitcoin https://bitcoinwords.github.io/cy19m2#demystifying-blockchain-not-bitcoin
 2/10 2011 - Bitcoin.org website struggles under increased traffic, resulting from mentions on Slashdot, Hacker News and Twitter following the news of US$/BTC parity being reached.
+QR   2020 - Marty Bent - The Tortoise and The Hare https://bitcoinwords.github.io/cy20m2#the-tortoise-and-the-hare
+QR   2020 - Elisabeth Préfontaine - Why Bitcoin is Not a Security https://bitcoinwords.github.io/cy20m2#why-bitcoin-is-not-a-security
 2/11 2009 - "I've developed a new open source P2P e-cash system called Bitcoin. It's completely decentralized, with no central server or trusted parties, because everything is based on crypto proof instead of trust. Give it a try, or take a look at the screenshots and design paper."
      2009 - "Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve. We have to trust them with our privacy, trust them not to let identity thieves drain our accounts. Their massive overhead costs make micropayments impossible."
      2009 - "The root problem with conventional currency is all the trust that's required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust."
@@ -33,9 +37,11 @@ QR   2019 - David Nage - Demystifying Blockchain not Bitcoin https://bitcoinword
      2009 - "Any owner could try to re-spend an already spent coin by signing it again to another owner. The usual solution is for a trusted company with a central database to check for double-spending, but that just gets back to the trust model. In its central position, the company can override the users, and the fees needed to support the company make micropayments impractical. Bitcoin's solution is to use a peer-to-peer network to check for double-spending. In a nutshell, the network works like a distributed timestamp server, stamping the first transaction to spend a coin. It takes advantage of the nature of information being easy to spread but hard to stifle."
      2009 - "The result is a distributed system with no single point of failure. Users hold the crypto keys to their own money and transact directly with each other, with the help of the P2P network to check for double-spending."
 QR   2018 - Hugo Nguyen - The Anatomy of Proof-of-Work https://archive.is/EyY2A
+QR   2020 - Alex Gladstein - A World Without Bitcoin https://bitcoinwords.github.io/cy20m2#a-world-without-bitcoin
 2/12	
 QR   2019 - Su Zhu & Hasu - Bitcoin is a hedge against the cashless society https://bitcoinwords.github.io/cy19m2#bitcoin-is-a-hedge-against-the-cashless-society
 2/13 2012 - The second largest Bitcoin exchange in the world, TradeHill, shuts down, citing regulatory problems and the loss of US$100,000 (following a dispute with a payment processor) as contributing factors.
+QR   2020 - Zane Pocock - The Nature of Bitcoin https://bitcoinwords.github.io/cy20m2#the-nature-of-bitcoin
 QR   2021 - Allen Farrington - Bitcoin is Venice https://archive.is/c0HCw
 QR   2021 - William Clemente III - The Bitcoin Black Hole Effect https://archive.is/hvmUW
 2/14 2010 - "I'm sure that in 20 years there will either be very large transaction volume or no volume."
@@ -47,6 +53,8 @@ QR   2019 - Paul Sztorc - Security Budget in the Long Run https://bitcoinwords.g
 2/15 2009 - "A lot of people automatically dismiss e-currency as a lost cause because of all the companies that failed since the 1990's. I hope it's obvious it was only the centrally controlled nature of those systems that doomed them. I think this is the first time we're trying a decentralized, non-trust-based system."
      2013 - Reddit begins accepting bitcoins for purchases of Reddit Gold."
 QR   2019 - Patrick Dugan - Rehypothecation: BTC's patch to becoming king of collateral https://bitcoinwords.github.io/cy19m2#rehypothecation-btcs-path-to-becoming-king-of-collateral
+QR   2020 - Acrual - Some conclusions after learning Bitcoin https://bitcoinwords.github.io/cy20m2#some-conclusions-after-learning-bitcoin
+QR   2020 - Allen Farrington - The Complex Markets Hypothesis https://bitcoinwords.github.io/cy20m2#the-complex-markets-hypothesis
 2/16 2012 - First auto title loan for bitcoins requested. 
 QR   2021 - Saifedean Ammous & Michael Saylor on the Fiat Standard https://web.archive.org/web/20210403123313/https://saifedean.com/podcast/34-michael-saylor-on-the-fiat-standard/
 2/17 2010 - Trading begins on Bitcoin Market.
@@ -65,6 +73,7 @@ QR   2021 - Gigi - Bitcoin Privacy: Best Practices https://archive.is/WHvaq
      2021 - Bitcoin hits 1 trillion USD market capitalization"
 QR   2019 - Alex Gladstein - A Human Rights Activist's Response to Bitcoin Critics https://bitcoinwords.github.io/cy19m2#a-human-rights-activists-response-to-bitcoin-critics
 QR   2019 - Aleks Svetski - Why Bitcoin Matters https://archive.is/paFjV
+QR   2020 - Acrual - Why Bitcoin's volatility can only decrease (but it will take a bit longer) https://bitcoinwords.github.io/cy20m2#why-bitcoins-volatility-can-only-decrease-but-it-will-take-a-bit-longer
 2/20	
 QR   2014 - Andreas Antonopoulos - Bitcoin Security Model: Trust By Computation https://archive.is/atIny
 QR   2019 - Tuur Demeester, Tamás Blummer and Michiel Lescrauwaet - A Primer on Bitcoin Investor Sentiment and Changes in Saving Behaviour https://bitcoinwords.github.io/cy19m2#a-primer-on-bitcoin-investor-sentiment-and-changes-in-saving-behavior
@@ -85,5 +94,6 @@ QR   2019 - Jack Purdy - Crypto Governance: The Startup vs. Nation-State Approac
 2/26 2010 - "How does everyone feel about the B symbol with the two lines through the outside? Can we live with that as our logo?"
      2016 - First successful Zero-Knowledge Contingent Payment (ZKCP) on the Bitcoin network
 2/27 2012 - Bitcoin Magazine launches with articles about Bitcoin and crypto-currency.
+QR   2020 - Sylvain Saurel - Ladies, Gentlemen, Welcome to Bitcoin Club - Here are the Rules https://bitcoinwords.github.io/cy20m2#ladies-gentlemen-welcome-to-bitcoin-club--here-are-the-rules
 2/28 2013 - The MtGox exchange rate broke the June 8 2011 peak of 31.91 USD. The first all time high since 601 days
 QR   2017 - Matt Corallo - Bitcoin's Diversity of Use-Cases and Security Models https://archive.is/vgbCC
