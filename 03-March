@@ -2,6 +2,8 @@
     2011 - MagicalTux buys mtgox.com from its founder Jed McCaleb
     2012 - A security breach at Linode, a website hosting company, results in the largest theft of Bitcoins recorded to date. More than 46,000 BTC are stolen, valued at over US$228,000."	
 QR  2020 - Gigi - Bitcoin's Habitats: How Bitcoin is surviving and thriving between worlds https://archive.is/c0tOC
+QR  2020 - Sylvain Saurel - Bitcoin Price Will Always Be Too Expensive if You Don't Believe in Its Revolution https://bitcoinwords.github.io/cy20m3#bitcoin-price-will-always-be-too-expensive-if-you-dont-believe-in-its-revolution
+QR  2020 - Sven Schnieders - Bitcoin's Social Antifragility https://bitcoinwords.github.io/cy20m3#bitcoins-social-antifragility
 3/2	
 QR  2018 - Vijay Boyapati - The Bullish Case For Bitcoin https://archive.is/jE0Bs
 QR  2018 - George Kikvadze - Seven Myths of Bitcoin https://bitcoinwords.github.io/cy18m3#seven-myths-of-bitcoin
@@ -11,6 +13,7 @@ QR  2019 - Jameson Lopp - Bitcoin Timestamp Security https://bitcoinwords.github
 3/4		
 3/5	
 QR  2018 - Peter McCormack - An Open Letter to Banks about Bitcoin and Cryptocurrencies https://archive.is/JcBR2
+QR  2020 - Daniel Frumkin - So You Think Bitcoin Mining is Wasteful? https://bitcoinwords.github.io/cy20m3#so-you-think-bitcoin-mining-is-wasteful
 QR  2021 - Knut Svanholm - Bitcoin and the Separation of Money and State https://archive.is/UKdxg
 3/6 2011 - Jed McCaleb sells MtGox to Japan’s Tibanne Company. A new high of nearly 900Ghash/sec total Bitcoin network computation speed is reached, dropping to 500Ghash/sec soon after. It is speculated that the reduction is the result of a supercomputer or bot-net joining the network.	
 QR  2019 - Ryan Radloff - Bitcoin Has a Branding Problem - It's Evolution, Not Revolution https://bitcoinwords.github.io/cy19m3#bitcoin-has-a-branding-problemits-evolution-not-revolution
@@ -20,21 +23,25 @@ QR  2019 - Su Zhu & Hasu - Skeptic's Guide to Bitcoin: Investing in Bitcoin http
     2014 - "I am not Dorian Nakamoto."
     2019 - Coinbase acquired intelligence firm Neutrino for US$13.5 million. The company was founded by three former employees of Hacking Team, a controversial Italian surveillance vendor that was caught several times selling spyware to governments with dubious human rights records, such as Ethiopia, Saudi Arabia, and Sudan."	
 QR  2019 - Eric Wall - Privacy and Cryptocurrency https://archive.is/IjRoO
+QR  2020 - Prateek Goorha - The Moral Philosophy of Bitcoin https://bitcoinwords.github.io/cy20m3#the-moral-philosophy-of-bitcoin
 3/8 2013 - Bitcoin brokerage firm, BitInstant, acknowledges that a hack of its system resulted in the theft of nearly US$12,000 in Bitcoins.	
 QR  2021 - Seetee Shareholder Letter https://web.archive.org/web/20210316044410/https://www.seetee.io/static/shareholder_letter-6ae7e85717c28831bf1c0eca1d632722.pdf 
 3/9 2013 - Kim Dotcom announces that his cloud storage service, Mega, will begin accepting Bitcoin payments through bitvoucher.co, its newest reseller.
     2020 - Bitcoin core version 0.19.1 is released. "	
 QR  1993 - Eric Hughes - A Cypherpunk's Manifesto https://archive.is/Cr7LH
+QR  2020 - Beautyon - You don't care about "The Price of the Internet" so ignore the price of Bitcoin https://bitcoinwords.github.io/cy20m3#you-dont-care-about-the-price-of-the-internet-so-ignore-the-price-of-bitcoin
 3/10		
 3/11 2013 - A significant glitch that involves two different versions of the Bitcoin software forces a halt in transactions that results in a sharp sell-off and a 23 percent drop in value to US$37. Later that evening, the exchange rate recovered much of its value.	
 QR   2017 - Jameson Lopp - Nobody Understands Bitcoin (And That’s OK) https://archive.is/hCMlb
 QR   2019 - Nik Bhatia - The Lightning Network Reference Rate https://bitcoinwords.github.io/cy19m3#the-lightning-network-reference-rate
+QR   2020 - Joe Rodgers - The Bitcoin Diaspora, A Conferderation of Tribes https://bitcoinwords.github.io/cy20m3#the-bitcoin-diaspora-a-confederation-of-tribes
 3/12 2013 - 24 Block Rollback - A hard fork occurs in the Blockchain: After a bug was exposed between versions 0.7 and 0.8 of the Bitcoin reference client, a fast response from the developers, community, miners, and services orchestrated a rollback of 24 blocks, preventing a split in the Bitcoin network. A previously undiscovered protocol rule results in a hard fork of the 0.8.0 reference client.	
 3/13
 QR   2019 - Lucas Nuzzi - Schnorr Signatures & The Invevitability of Privacy in Bitcoin https://bitcoinwords.github.io/cy19m3#schnorr-signatures--the-inevitability-of-privacy-in-bitcoin
 QR   2021 - Gigi - The Responsibility of Adopting Bitcoin https://archive.is/P62yO
 3/14
 QR   2017 - Beautyon - Bitcoin is. And that is enough. https://archive.is/iU7Tu
+QR   2020 - Jameson Lopp - Bitcoin Core Contributor Challenges https://bitcoinwords.github.io/cy20m3#bitcoin-core-contributor-challenges
 3/15 2016 - Bitcoin Core starts providing opt-in, announcement-only information for users of Bitcoin Core to receive notifications of security issues and new releases	
 QR   2018 - Beautyon - Why America Can’t Regulate Bitcoin https://archive.is/yAOwZ
 QR   2019 - Genesis Node - Could Bitcoin fix the stagnant political and economic landscape? https://bitcoinwords.github.io/cy19m3#could-bitcoin-fix-the-stagnant-political-and-economic-landscape
@@ -69,14 +76,16 @@ QR   2019 - JP Thor - Bitcoin's True Market Dominance https://bitcoinwords.githu
 QR   2019 - ElSeidy - On Bitcoin's Academic Lineage https://bitcoinwords.github.io/cy19m3#on-bitcoins-academic-lineage
 QR   2021 - Jonathan Bier - The Blocksize War – Chapter 1 – First Strike https://archive.is/y9c56
 3/23 
-
 QR   2018 - Nick Szabo - The many traditions of non-governmental money part I https://bitcoinwords.github.io/cy18m3#the-many-traditions-of-non-governmental-money-part-i
+QR   2020 - Conner Brown - Bitcoin: A Bold American Future https://bitcoinwords.github.io/cy20m3#bitcoin-a-bold-americanfuture
 3/24 2012 - First property management accepts bitcons for rent. Over 100 commercial and residential properties	
 3/25 2011 - The second, and largest, decrease in difficulty is recorded at nearly 10 percent.	
 3/26
 QR   2020 - Parker Lewis - Bitcoin is a Rally Cry https://archive.is/CKWqt
 3/27 2011 - Britcoin, the first market for exchanging bitcoins to and from the British Pound Sterling (BTC/GBP), opens.
      2012 - First printed Bitcoin magazine is announced and then followed by photos."	
+QR   2020 - Vlad Costea - Calling Bitcoin a NSA/CIA Project Is Disrespectful to Cypherpunks https://bitcoinwords.github.io/cy20m3#calling-bitcoin-a-nsacia-project-is-disrespectful-to-cypherpunks
+QR   2020 - Nick - Stock-to-Flow Influences on Bitcoin Price https://bitcoinwords.github.io/cy20m3#stock-to-flow-influences-on-bitcoin-price
 3/28 1997 - Adam Back proposes Hashcash on the Cypherpunks mailing list.
      2012 - First Amateur Adult Entertainers use Bitcoin for tips
      2013 - The Billion Dollar Day - the market cap of the entire Bitcoin network surpassed $1 Billion on this day. - With the first all-time high in 601 days, the MtGox exchange rate breaks the June 8, 2011 peak of US$31.91."	
@@ -85,6 +94,7 @@ QR   2020 - Robert Breedlove - The Number Zero and Bitcoin https://archive.is/Ua
 3/29 2012 - First Bitcoin-only Credit Default Swap (CDS)
      2018 - First Beta Release of Electrum Personal Server by Chris Belcher
 QR   2020 - Erik Cason - The Political Theology of Bitcoin https://archive.is/UmNVR
+QR   2020 - Sven Schnieders - Stop Calling for a Free Market in Money https://bitcoinwords.github.io/cy20m3#stop-calling-for-a-free-market-in-money
 QR   2021 - Jonathan Bier - The Blocksize War – Chapter 2 – March To War https://archive.is/tNqe0
 3/30	
 QR   2018 - Beautyon_ - Bitcoin Doesn't Waste Electricity https://archive.is/3IpA4
