@@ -1,6 +1,7 @@
 6/1 2011 - SF Chiropractor accepts BTC for office visits.
     2012 - Coinbase, a bitcoin wallet and platform, is founded in San Francisco, California."	
 QR  2018 - StopAndDecrypt - Bitcoin Miners Beware: Invalid Blocks Need Not Apply https://archive.is/Xfo4J
+QR  2020 - Leo Zhang - Bitcoin Mining's Three Body Problem https://bitcoinwords.github.io/cy20m6#bitcoin-minings-three-body-problem
 6/2	2011 - 1 BTC is worth US$10 for the first time. The exchange rate at MtGox touched 10 USD per BTC.	
 6/3 2011 - Tonal Bitcoin reaches parity with the US cent for the first time, touching US$0.01 per TBC at Bitcoin Market
     2012 - Block 181919, with 1322 transactions, is the largest block to-date.
@@ -11,8 +12,10 @@ QR  2019 - Jack Purdy - Satoshi's Rebuttal of Modern Monetary Theory https://bit
 QR  2011 - Astrohacker - Bitcoin is Economic Singularity https://archive.is/dGf3b
 QR  2018 - Aaron van Wirdum - Hashcash or how Adam Back designed Bitcoin's Motor Block
 QR  2020 - Stephan Livera and 6102Bitcoin on Bitcoin Privacy, Education, KYC, and Pseudonymity https://stephanlivera.com/episode/178/
+QR  2020 - Karo Zagorus - Bitcoin and the Trust Problem: Is Bitcoin adoption accelerated by abuse of trust? https://bitcoinwords.github.io/cy20m6#bitcoin-and-the-trust-problem-is-bitcoin-adoption-accelerated-by-the-abuse-of-trust
 6/5		
 QR  2018 - Joe Kendzicky - The Bitcoin Lightning Network: A Technical Primer https://bitcoinwords.github.io/cy18m6#the-bitcoin-lightning-network-a-technical-primer
+QR  2020 - Hasu - Bitcoin and the intolerant minority https://bitcoinwords.github.io/cy20m6#bitcoin-and-the-intolerant-minority
 6/6	2012 - First Bitcoin donations to contribute to a successful anti-corrupt local government political campaign. Travis Kiger, running against a Fullerton City counsel that turned a blind eye to the death of Kelly Thomas at the hands of their local police department, promoted the use of Bitcoin to fund his campaign and won the councel seat for his district.	
 QR  2018 - Aaron van Wirdum - The Future of Bitcoin – What Lightning Could Look Like https://bitcoinaudible.com/?p=551
 6/7 2016 - Compact Blocks FAQ released, explaining compact block relay, BIP152, a method of reducing the amount of bandwidth used to propagate new blocks to full nodes	
@@ -20,15 +23,22 @@ QR  2021 - Jonathan Bier - The Blocksize War – Chapter 12 – Bitcoin Unlimite
 6/8 2011 - The price of a Bitcoin on MtGox reaches an all-time high of US$31.91 with a market capitalization of around US$206 million.
     2016 - Version bits FAQ for miners published. The version bits BIP9 system is a way to introduce backward compatible rule changes to the Bitcoin consensus rules, known as a soft fork."	
 QR  2018 - Nik Bhatia - The Time Value of Bitcoin https://bitcoinaudible.com/?p=758
+QR  2020 - Adam Pokornicky - A Peaceful Protest - Opt-Out, Buy Bitcoin https://bitcoinwords.github.io/cy20m6#a-peaceful-protest---opt-out-buy-bitcoin
+QR  2020 - Diverter "No ID" BTC - Mining for the Streets https://bitcoinwords.github.io/cy20m6#mining-for-the-streets
 6/9		
 QR  2018 - Pierre Rochard - Bitcoin Investment Theses Part 1 https://bitcoinwords.github.io/cy18m6#bitcoin-investment-theses-part-1
+QR  2020 - Solairis - Bitcoin: Reform or Revolution? Part 1 https://bitcoinwords.github.io/cy20m6#bitcoin-reform-or-revolution-part-1
 6/10
 QR   2018 - Gigi - Bitcoin's Energy Consumption https://web.archive.org/web/20210402204449/https://dergigi.com/2018/06/10/bitcoin-s-energy-consumption/
 QR   2020 - Human Rights Foundation Funds Bitcoin Privacy https://bitcoinaudible.com/?p=4314
 6/11		
 QR   2019 - Erik Cason - The Political Theology of Crypto https://bitcoinwords.github.io/cy19m6#the-political-theology-of-crypto
 6/12 2011 - The Great Bitcoin Bubble of 2011: In the largest percentage price decrease to-date, the MtGox Bitcon exchange rate plummeted to nearly US$10, just four days after its peak at US$31.91. 	
+QR   2020 - Brian Harrington - Bitcoin Has to Be for Everyone https://bitcoinwords.github.io/cy20m6#bitcoin-has-to-be-for-everyone
+QR   2020 - Parker Lewis - Bitcoin is Antifragile https://bitcoinwords.github.io/cy20m6#bitcoin-is-antifragile
 6/13 2011 - Bitcoin Forum member, allinvain, claimed to have had 25,000 BTC stolen from his Bitcoin wallet. At the time, the exchange rate put the amount close to US$375,000.	
+QR   2020 - Sylvain Saurel - Bitcoin Needs You As Much as You Need Bitcoin https://bitcoinwords.github.io/cy20m6#bitcoin-needs-you-as-much-as-you-need-bitcoin
+QR   2020 - Tatiana Koffman - Why Bitcoin is a silent protest against corrupt goverments everywhere https://bitcoinwords.github.io/cy20m6#why-bitcoin-is-a-silent-protest-against-corrupt-governments-everywhere
 QR   2021 - Gigi - Bitcoin is an Idea https://archive.is/fHmYS
 6/14 2010 - "SHA-256 is very strong. It's not like the incremental step from MD5 to SHA1.  It can last several decades unless there's some massive breakthrough attack. If SHA-256 became completely broken, I think we could come to some agreement about what the honest block chain was before the trouble started, lock that in and continue from there with a new hash function."
      2011 - WikiLeaks begins accepting anonymous Bitcoin donations."	
@@ -41,9 +51,12 @@ QR   2020 - Gigi - The Bitcoin Journey https://archive.is/Qu8rl
 6/17 2010 - "The nature of Bitcoin is such that once version 0.1 was released, the core design was set in stone for the rest of its lifetime.  Because of that, I wanted to design it to support every possible transaction type I could think of.  The problem was, each thing required special support code and data fields whether it was used or not, and only covered one special case at a time.  It would have been an explosion of special cases.  The solution was script, which generalizes the problem so transacting parties can describe their transaction as a predicate that the node network evaluates.  The nodes only need to understand the transaction to the extent of evaluating whether the sender's conditions are met."
      2010 - "The design supports a tremendous variety of possible transaction types that I designed years ago.  Escrow transactions, bonded contracts, third party arbitration, multi-party signature, etc.  If Bitcoin catches on in a big way, these are things we'll want to explore in the future, but they all had to be designed at the beginning to make sure they would be possible later."
 QR   2019 - Philip Swift - The Golden Ratio Multiplier https://bitcoinwords.github.io/cy19m6#the-golden-ratio-multiplier
+QR   2020 - Sven Schnieders - The End Of Gold https://bitcoinwords.github.io/cy20m6#the-end-of-gold
 6/18 2010 - "Excellent choice of a first project, nice work.  I had planned to do this exact thing if someone else didn't do it, so when it gets too hard for mortals to generate 50BTC, new users could get some coins to play with right away.  Donations should be able to keep it filled.  The display showing the balance in the dispenser encourages people to top it up. You should put a donation bitcoin address on the page for those who want to add funds to it, which ideally should update to a new address whenever it receives something."
      2010 - "Since 2007.  At some point I became convinced there was a way to do this without any trust required at all and couldn't resist to keep thinking about it.  Much more of the work was designing than coding. Fortunately, so far all the issues raised have been things I previously considered and planned for."
 QR   2019 - Tamas Blummer - There Can Be Only One https://archive.is/Gg9na
+QR   2020 - Zane Pocock - Bitcoin's Town Square https://bitcoinwords.github.io/cy20m6#bitcoins-town-square
+QR   2020 - John Cantrell - How I checked over 1 trillion mnemonics in 30 hours to win a bitcoin https://bitcoinwords.github.io/cy20m6#how-i-checked-over-1-trillion-mnemonics-in-30-hours-to-win-a-bitcoin
 6/19 2011 - MtGox suffers a significant breach of security that results in fraudulent trading and requires the site to be shut down for seven days. The breach compromises the MtGox database with a leak of the user table that contains user names, email addresses, and password hashes of 60,000 accounts. An admin account was accessed from which sell orders were issued for hundreds of thousands of Bitcoins, which forced the MtGox price down to US$17.51 to US$0.01 per Bitcoin. 
      2011 - In order to prove that MtGox still had control of the coins, the move of 424,242 bitcoins from ""cold storage"" to a MtGox address was announced beforehand and executed in Block 132749. It was later revealed that the coins may have never been in cold storage, as the proof-of-solvency transaction was broadcast through a remote Linux desktop and a single hot wallet. 
      2011 - Trading halts at TradeHill and Britcoin while security measures are reviewed. Users that were registered at MyBitcoin with the same username as on MtGox had their passwords hacked and balances stolen from around 600 MyBitcoin accounts, with one user losing more than 2,000 BTC."	
