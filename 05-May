@@ -16,12 +16,15 @@ QR  2021 - Jonathan Bier - The Blocksize War – Chapter 7 – Bitcoin Classic h
 5/5
 QR  2021 - Nic Carter How much Energy does Bitcoin Actually Consume https://archive.is/Arg0V	
 5/6	
+QR  2020 - nopara - Few Words on Decentralization and Anonymous Payments https://bitcoinwords.github.io/cy20m5#few-words-on-decentralization-and-anonymous-payments
 5/7	
 QR  2019 - Pierre Rochard - Why learn to program with Bitcoin's Lightning network? https://bitcoinwords.github.io/cy19m5#why-learn-to-program-with-bitcoins-lightning-network
 QR  2019 - Jimmy Song - Why Blockchain is Not the Answer https://bitcoinwords.github.io/cy19m5#why-blockchain-is-not-the-answer
+QR  2020 - John Vallis - The 4th Bitcoin Epoch https://bitcoinwords.github.io/cy20m5#tweetstorm-the-4th-bitcoin-epoch
 5/8 2012 - A single service, Satoshi Dice, becomes responsible for over half the transaction volume on the Bitcoin blockchain.
 QR  2019 - Conner Brown - Bitcoin Has No Intrinsic Value — and That’s Great https://archive.is/ORygI
 QR  2019 - Tamás Blummer - How to bribe miners to re-org? https://bitcoinwords.github.io/cy19m5#how-to-bribe-miners-to-re-org
+QR  2020 - Fabian Jahr - Where are the coins? https://bitcoinwords.github.io/cy20m5#where-are-the-coins
 5/9 2011 - First physical bitcoins called bitbills - A Bitbill is a plastic card that holds the cryptographic key that will allow the face value amount of the card to be spent.
     2012 - An FBI report entitled ""Bitcoin Virtual Currency: Unique Features Present Distinct Challenges for Deterring Illicit Activity"" is leaked. The report was published on April 24, 2012 in order to bring attention to concerns that Bitcoin payment methods could facilitate illegal transactions for weapons and narcotics.
     2015 - Samourai Wallet inception with Reddit post that announces enforcement of BIP 39 passphrase when a wallet is created. It claims to be forged to keep transactions private, user identity masked, and funds secure."
@@ -33,7 +36,9 @@ QR   2021 - Jonathan Bier - The Blocksize War – Chapter 8 – Hong Kong Roundt
      2020 - Third halving cuts block subsidy from 12.5 to 6.25. Final block of third epoch is mined by f2pool and contains the message: ""NYTimes 09/Apr/2020 With $2.3T Injection, Fed's Plan Far Exceeds 2008 Rescue"" "
 QR   2019 - Sourabh - Differentiating Against Bitcoin https://bitcoinwords.github.io/cy19m5#differentiating-against-bitcoin
 QR   2019 - Peter Wuille, Greg Maxwell and Fernando Nieto - 51% Attack - apparently very easy? https://bitcoinwords.github.io/cy19m5#51-attack---apparently-very-easy-refering-to-czs-rollback-btc-chain
+QR   2020 - Pedro Febrero - How Does Quantitative Easing (QR) Affect the Price of Bitcoin? https://bitcoinwords.github.io/cy20m5#how-does-quantitative-easing-qe-affect-the-price-of-bitcoin
 5/12 2011 - First room for rent for Bitcoin
+QR   2020 - Allen Farrington - Spiritual Reflections On The Bitcoin Halving https://bitcoinwords.github.io/cy20m5#spiritual-reflections-on-the-bitcoin-halving
 QR   2021 - Alex Gladstein - Check your financial privilege https://archive.is/ikMmx
 5/13	
 5/14
@@ -45,6 +50,8 @@ QR   2021 - Aaron Segal - Bitcoin Information Theory: B.I.T. https://archive.is/
 5/15 2017 - First Release of Joinmarket by Adam Gibson, a CoinJoin implementation aimed at improving the privacy and fungibility of bitcoin transactions.
 QR   2019 - Dan Held - Bitcoin's Security Is Fine https://archive.is/cyfHR
 QR   2019 - Stephan Livera - Intro to Bitcoin Austrian Thought https://archive.is/lDZae
+QR   2020 - Yassine Elmandjra & Dhruv Bansal - Bitcoin's Resilience to Exponential Change https://bitcoinwords.github.io/cy20m5#bitcoins-resilience-to-exponential-change
+QR   2020 - Sylvain Saurel - What Does Bitcoin Really Represent? https://bitcoinwords.github.io/cy20m5#what-does-bitcoin-really-represent
 5/16 2010 - "Bitcoin addresses you generate are kept forever. A bitcoin address must be kept to show ownership of anything sent to it.  If you were able to delete a bitcoin address and someone sent to it, the money would be lost.  They're only about 500 bytes.""
      2010 - "When you generate a new bitcoin address, it only takes disk space on your own computer (like 500 bytes).  It's like generating a new PGP private key, but less CPU intensive because it's ECC.  The address space is effectively unlimited.  It doesn't hurt anyone, so generate all you want."""
 5/17 2011 - First stripper being tipped bitcoin
@@ -62,8 +69,10 @@ QR   2018 - Spencer Bogart - The Internet's Magna Carta Moment: Bitcoin & The Va
 5/21	
 QR   2018 - Dmitry Kalichkin - Rethinking Metcalfe's Law applications to cryptoasset valuation https://bitcoinwords.github.io/cy18m5#rethinking-metcalfes-law-applications-to-cryptoasset-valuation
 QR   2019 - Permabull Nino - Bitcoin: an Accounting Revolution https://bitcoinwords.github.io/cy19m5#bitcoin-an-accounting-revolution
+QR   2020 - Erik Cason - Bitcoin and the Conquest of Privacy https://bitcoinwords.github.io/cy20m5#bitcoin-and-the-conquest-of-privacy
 5/22 2010 - Pizza Day - The first, real-world transaction using Bitcoins takes place when a Jacksonville, Florida programmer, Laszlo Hanyecz, offers to pay 10,000 Bitcoins for a pizza on the Bitcoin Forum. At the time, the exchange rate put the purchase price for the pizza at around US$25.
 QR   2019 - Crypto Voices - 2019 Q1 Global Monetary Base https://bitcoinwords.github.io/cy19m5#crypto-voices-2019-q1-global-monetary-base
+QR   2020 - BTChap - Bitcoin's Value Proposition  Is It Truly the Best Currency? https://bitcoinwords.github.io/cy20m5#bitcoins-value-proposition--is-it-truly-the-best-currency
 5/23 2010 - "The price of .com registrations is lower than it should be, therefore any good name you might think of is always already taken by some domain name speculator.  Fortunately, it's standard for open source projects to be .org.""
      2017 - NY Disagreement Day - The "New York Agreement" was reached on this day in 2017 that began the fork wars in earnest with the initiation of the SegWit2X proposal.
 QR   2019 - Alex Gladstein - Bitcoin could change the game for foreign aid https://bitcoinwords.github.io/cy19m5#bitcoin-could-change-the-game-for-foreign-aid
@@ -72,6 +81,7 @@ QR   2019 - Douglas French - The World Is Growing Tired of Government-Controlled
 QR   2021 - Jonathan Bier - The Blocksize War – Chapter 10 – The DAO https://archive.is/fAbyW
 5/25	
 QR   2019 - Bitcoin 101 with Tuur Demeester https://archive.is/xmLjI
+QR   2020 - Hasu - Why Bitcoin might not survive a Bitcoin Standard https://bitcoinwords.github.io/cy20m5#why-bitcoin-might-not-survive-a-bitcoin-standard
 5/26 2010 - Does anyone want to translate the Bitcoin client itself?  It would be great to have at least one other language in the 0.3 release."
 5/27 2011 - User TTbit offers 10,000 BTC to buy a cessna single-engine aircraft
 QR   2011 - Gwern - Bitcoin is Worse is Better https://archive.is/TKTkQ
