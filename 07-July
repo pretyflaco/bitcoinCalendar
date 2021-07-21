@@ -59,6 +59,7 @@ QR   2020 - Yuri de Gaia - Bitcoin as a Tool for Secession https://bitcoinwords.
 QR   2018 - Brendan Bernstein - Cryptocurrencies are money, not equity https://bitcoinwords.github.io/cy18m7#cryptocurrencies-are-money-not-equity
 QR   2019 - Nic Carter - It’s the settlement assurances, stupid https://archive.is/5pRXy
 QR   2019 - Anthony Pompliano and Saifedean Ammous on The Future of Bitcoin and the Global Economy https://archive.is/OJM87
+QR   2020 - Gloria Zhao - Map of the Bitcoin Network https://bitcoinwords.github.io/cy20m9#map-of-the-bitcoin-network
 7/23 2010 - "By making some adjustments to the database settings, I was able to make the initial block download about 5 times faster.  It downloads in about 30 minutes. The database default had it writing each block to disk synchronously, which is not necessary.  I changed the settings to let it cache the changes in memory and write them out in a batch.  Blocks are still written transactionally, so either the complete change occurs or none of it does, in either case the data is left in a valid state. I only enabled this change during the initial block download.  When you come within 2000 blocks of the latest block, these changes turn off and it slows down to the old way."
      2012 - First car producers offer their vehicle for Bitcoin. WikiSpeed is a Seattle based corporation that manufactures open source modular cars that get 100 MPG and accept Bitcoin as payment"
 QR   2019 - Gigi - The World is Waking Up to Bitcoin https://archive.is/Jcvmu
