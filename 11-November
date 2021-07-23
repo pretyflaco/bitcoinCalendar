@@ -1,11 +1,11 @@
 11/1 2008 - "I've been working on a new electronic cash system that's fully peer-to-peer, with no trusted third party.""
      2008 - "The main properties Double-spending is prevented with a peer-to-peer network. No mint or other trusted parties. Participants can be anonymous. New coins are made from Hashcash style proof-of-work. The proof-of-work for new coin generation also proof-of-workers the network to prevent double-spending."""
 QR   2018 - Nic Carter - Bitcoin’s Existential Crisis https://archive.is/Lvl6T
+QR   2020 - Robert Breedlove - Our Most Brilliant Idea https://archive.is/mTl0s
 11/2 2008 - "Long before the network gets anywhere near as large as that, it would be safe for users to use Simplified Payment Verification (section 8) to check for double spending, which only requires having the chain of block headers, or about 12KB per day."" 
      2008 - "Only people trying to create new coins would need to run network nodes."" 
      2008 - "At first, most users would run network nodes, but as the network grows beyond a certain point, it would be left more and more to specialists with server farms of specialized hardware. A server farm would only need to have one node on the network and the rest of the LAN connects with that one node."" "
 QR   2019 - HashedEntropy - What Hath Satoshi Wrought https://bitcoinwords.github.io/cy19m11#what-hath-satoshi-wrought
-QR   2020 - Robert Breedlove - Our Most Brilliant Idea https://archive.is/mTl0s
 11/3 2008 - "The requirement is that the good guys collectively have more CPU proof-of-worker than any single attacker.""
      2008 - "There would be many smaller zombie farms that are not big enough to overproof-of-worker the network, and they could still make money by generating bitcoins. The smaller farms are then the ""honest nodes"". (I need a better term than ""honest"") The more smaller farms resort to generating bitcoins, the higher the bar gets to overproof-of-worker the network, making larger farms also too small to overproof-of-worker it so that they may as well generate bitcoins too. According to the ""long tail"" theory, the small, medium and merely large farms put together should add up to a lot more than the biggest zombie farm.""
      2008 - "The Bitcoin network might actually reduce spam by diverting zombie farms to generating bitcoins instead."""
@@ -41,14 +41,17 @@ QR   2019 - Robert Breedlove - An Open Letter to Ray Dalio re:Bitcoin https://bi
      2008 - "A transaction will quickly propagate throughout the network, so if two versions of the same transaction were reported at close to the same time, the one with the head start would have a big advantage in reaching many more nodes first. Nodes will only accept the first one they see, refusing the second one to arrive, so the earlier transaction would have many more nodes working on incorporating it into the next proof-of-work. In effect, each node votes for its viewpoint of which transaction it saw first by including it in its proof-of-work effort. If the transactions did come at exactly the same time and there was an even split, it's a toss up based on which gets into a proof-of-work first, and that decides which is valid.""
      2008 - "When a node finds a proof-of-work, the new block is propagated throughout the network and everyone adds it to the chain and starts working on the next block after it. Any nodes that had the other transaction will stop trying to include it in a block, since it's now invalid according to the accepted chain.""
      2008 - "The proof-of-work chain is itself self-evident proof that it came from the globally shared view. Only the majority of the network together has enough CPU proof-of-worker to generate such a difficult chain of proof-of-work. Any user, upon receiving the proof-of-work chain, can see what the majority of the network has approved. Once a transaction is hashed into a link that's a few links back in the chain, it is firmly etched into the global history.""
+QR   2020 - Vijay Boyapati - The Four Valuation Frameworks for Bitcoin https://bitcoinwords.github.io/cy20m11#tweet-thread---the-four-valuation-frameworks-for-bitcoin
 11/10 2008 - "If you're having trouble with the inflation issue, it's easy to tweak it for transaction fees instead. It's as simple as this  let the output value from any transaction be 1 cent less than the input value. Either the client software automatically writes transactions for 1 cent more than the intended payment value, or it could come out of the payee's side. The incentive value when a node finds a proof-of-work for a block could be the total of the fees in the block."
 QR    2018 - Nic Carter - Transaction count is an inferior measure https://bitcoinwords.github.io/cy18m11#transaction-count-is-an-inferior-measure
+QR    2020 - Hasu - Exploring Bitcoin's core values and why we defend them https://bitcoinwords.github.io/cy20m11#exploring-bitcoins-core-values-and-why-we-defend-them
 11/11 2008 -  ""When there are multiple double-spent versions of the same transaction, one and only one will become valid.""
       2008 - "The receiver of a payment must wait an hour or so before believing that it's valid. The network will resolve any possible double-spend races by then.""
       2008 - "The guy who received the double-spend that became invalid never thought he had it in the first place. His software would have shown the transaction go from ""unconfirmed"" to ""invalid"". If necessary, the UI can be made to hide transactions until they're sufficiently deep in the block chain.""
       2008 - "The target time between blocks will probably be 10 minutes. Every block includes its creation time. If the time is off by more than 36 hours, other nodes won't work on it. If the timespan over the last 6*24*30 blocks is less than 15 days, blocks are being generated too fast and the proof-of-work difficulty doubles. Everyone does the same calculation with the same chain data, so they all get the same result at the same link in the chain.""
       2008 - "Instantant non-repudiability is not a feature, but it's still much faster than existing systems. Paper cheques can bounce up to a week or two later. Credit card transactions can be contested up to 60 to 180 days later. Bitcoin transactions can be sufficiently irreversible in an hour or two.""
       2008 - "With the transaction fee based incentive system I recently posted, nodes would have an incentive to include all the paying transactions they receive."""
+QR    2020 - Jason Deane - How Bitcoin's Power Consumption Is Good for the Planet https://bitcoinwords.github.io/cy20m11#how-bitcoins-power-consumption-is-good-for-the-planet
 11/12	
 QR    2019 - Phil Bonello - "The Sovereign Individual" Investment Thesis https://bitcoinwords.github.io/cy19m11#the-sovereign-individual-investment-thesis
 11/13 2008 - "It's very attractive to the libertarian viewpoint if we can explain it properly. I'm better with code than with words though.""
@@ -57,6 +60,7 @@ QR    2019 - Phil Bonello - "The Sovereign Individual" Investment Thesis https:/
 QR    2018 - Preethi Kasireddy - How Does Distributed Consensus Work? https://bitcoinwords.github.io/cy18m11#how-does-distributed-consensus-work
 QR    2019 - HashedEntropy - The Last Mortal Man https://bitcoinwords.github.io/cy19m11#the-last-mortal-man
 11/14 2008 - "Broadcasts will probably be almost completely reliable. TCP transmissions are rarely ever dropped these days, and the broadcast protocol has a retry mechanism to get the data from other nodes after a while. If broadcasts turn out to be slower in practice than expected, the target time between blocks may have to be increased to avoid wasting resources. We want blocks to usually propagate in much less time than it takes to generate them, otherwise nodes would spend too much time working on obsolete blocks.""
+QR    2020 - Brandon Quittem - Bitcoin and the power of incentives https://bitcoinwords.github.io/cy20m11#tweetstorm---bitcoin-and-the-power-of-incentives
 11/15 2011 - The first CVE was assigned to a Bitcoin client exploit (CVE-2011-4447).
       2012 - Wordpress becomes the first big website to accept Bitcoin.
 QR    2018 - Joe Kendzicky - Exploring Liquid Sidechain https://bitcoinwords.github.io/cy18m11#exploring-liquid-sidechain
@@ -81,6 +85,8 @@ QR    2019 - Rhythm - Bitcoin is The Only Way to Opt-Out https://bitcoinwords.gi
 QR    2018 - Su Zhu & Hasu - Skeptic's Guide to Bitcoin: An Honest Account of Fiat Money https://bitcoinwords.github.io/cy18m11#skeptics-guide-to-bitcoin-an-honest-account-of-fiat-money
 QR    2019 - Gigi - Bitcoin Boots on the Ground: Venezuela https://archive.is/X6uAy
 11/22 2009 - "Think of it as a cooperative effort to make a chain.  When you add a link, you must first find the current end of the chain.  If you were to locate the last link, then go off for an hour and forge your link, come back and link it to the link that was the end an hour ago, others may have added several links since then and they're not going to want to use your link that now branches off the middle."
+QR    2020 - Lyn Alden - Banks, QE and Money-Printing https://bitcoinwords.github.io/cy20m11#banks-qe-and-money-printing
+QR    2020 - Leo Zhang, Jack Koehler and David Cai - The Intelligent Bitcoin Miner, Part I https://bitcoinwords.github.io/cy20m11#the-intelligent-bitcoin-miner-part-i
 11/23	
 11/24 2019 - Bitcoin core release 0.19.0.1
 11/25 2010 - "For greater privacy, it's best to use bitcoin addresses only once."
@@ -95,4 +101,5 @@ QR    2019 - Alex Svetski - Immutability as a Service https://bitcoinwords.githu
 11/29 2017 - 1 BTC is worth 10000$ for the first time
 QR    2018 - Christopher Bendiksen - An Honest Explanation of Price, Hashrate & Bitcoin Mining Network Dynamics https://bitcoinwords.github.io/cy18m11#an-honest-explanation-of-price-hashrate--bitcoin-mining-network-dynamics
 QR    2019 - Parker Lewis - Bitcoin is not for Criminals https://archive.is/gNDc1
+QR    2020 - James O'Beirne - An Open Letter to Friends and Family https://bitcoinwords.github.io/cy20m11#an-open-letter-to-friends-and-family
 11/30	
